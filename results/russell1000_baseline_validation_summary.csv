@@ -1,0 +1,2 @@
+model,screened_pairs,validated_pairs,stable_pairs,validation_start,validation_end,max_abs_z_threshold,max_final_abs_z_threshold,max_volatility_ratio
+russell1000_baseline,25,25,12,2024-01-02,2024-02-15,4.0,2.5,2.0

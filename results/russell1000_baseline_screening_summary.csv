@@ -1,0 +1,2 @@
+model,candidate_pairs,valid_tests,fdr_discoveries,passing_pairs,fdr_alpha,max_half_life_days
+russell1000_baseline,500,500,25,25,0.05,60

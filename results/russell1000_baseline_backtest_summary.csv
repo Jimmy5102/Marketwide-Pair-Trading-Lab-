@@ -1,0 +1,2 @@
+universe,test_start,test_end,trading_days,pairs_backtested,cost_per_leg_bps,portfolio_method,cumulative_return,annualized_return,annualized_volatility,sharpe_ratio,max_drawdown,best_day,worst_day,positive_day_fraction
+Russell 1000,2024-02-16,2026-10-06,661,12,5.0,fixed equal-weight pair sleeves,-0.0032757964259224615,-0.0012501343379196506,0.0024850825708836776,-0.5021282514961168,-0.004164549903285519,0.0014281369287736754,-0.0012236280856264374,0.036308623298033284
