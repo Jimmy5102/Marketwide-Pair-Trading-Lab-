@@ -228,9 +228,9 @@ def main():
     prices = prices.apply(pd.to_numeric, errors="coerce")
 
     model_files = {
-        "baseline": "baseline_screened_pairs.csv",
-        "sector": "sector_screened_pairs.csv",
-        "cluster": "cluster_screened_pairs.csv",
+        "baseline": "baseline_stable_pairs.csv",
+        "sector": "sector_stable_pairs.csv",
+        "cluster": "cluster_stable_pairs.csv",
     }
 
     for model_name, filename in model_files.items():
