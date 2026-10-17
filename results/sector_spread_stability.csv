@@ -1,0 +1,3 @@
+ticker_a,ticker_b,first_test_date,first_test_z,first_abs_z,first_stop_breach,max_abs_z,days_abs_z_ge_4,days_abs_z_lt_2
+ELV,GILD,2024-02-16,5.612738418486947,5.612738418486947,2024-02-16,31.32543686166274,640,12
+MCHP,TEL,2024-02-16,-4.731716239124544,4.731716239124544,2024-02-16,47.78864595342107,561,66

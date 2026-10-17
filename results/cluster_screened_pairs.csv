@@ -1,0 +1,1 @@
+ticker_a,ticker_b,observations,cointegration_stat,p_value,critical_1pct,critical_5pct,critical_10pct,intercept,hedge_ratio,spread_std,half_life_days,model,candidate_rank,distance,cluster,fdr_adjusted_p,fdr_significant_5pct,passes_basic_filters

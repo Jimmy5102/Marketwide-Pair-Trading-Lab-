@@ -1,0 +1,4 @@
+model,tested_pairs,fdr_discoveries,passing_pairs
+baseline,500,20,20
+sector,500,2,2
+cluster,500,0,0

@@ -1,0 +1,3 @@
+model,pairs_tested,trading_days,total_return,cagr,annualized_volatility,sharpe,max_drawdown,total_trades,mean_daily_transaction_cost
+baseline,20,661,-0.009612551268605829,-0.0036756497064761584,0.008687381227776394,-0.41953802970639353,-0.018931603922726747,48,1.8154311649016642e-06
+sector,2,661,0.0,0.0,0.0,,0.0,0,0.0
