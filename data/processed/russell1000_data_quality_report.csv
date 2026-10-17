@@ -1,0 +1,1023 @@
+ticker,yahoo_ticker,sector,valid_observations,coverage,first_valid_date,last_valid_date,download_failed,eligible
+A,A,Health Care,1454,1.0,2021-01-04,2026-10-16,False,True
+AA,AA,Materials,1454,1.0,2021-01-04,2026-10-16,False,True
+AAL,AAL,Industrials,1454,1.0,2021-01-04,2026-10-16,False,True
+AAOI,AAOI,Information Technology,1454,1.0,2021-01-04,2026-10-16,False,True
+AAON,AAON,Industrials,1454,1.0,2021-01-04,2026-10-16,False,True
+AAPL,AAPL,Information Technology,1454,1.0,2021-01-04,2026-10-16,False,True
+ABBV,ABBV,Health Care,1454,1.0,2021-01-04,2026-10-16,False,True
+ABNB,ABNB,Consumer Discretionary,1454,1.0,2021-01-04,2026-10-16,False,True
+ABT,ABT,Health Care,1454,1.0,2021-01-04,2026-10-16,False,True
+ACGL,ACGL,Financials,1454,1.0,2021-01-04,2026-10-16,False,True
+ACI,ACI,Consumer Staples,1454,1.0,2021-01-04,2026-10-16,False,True
+ACM,ACM,Industrials,1454,1.0,2021-01-04,2026-10-16,False,True
+ACN,ACN,Information Technology,1454,1.0,2021-01-04,2026-10-16,False,True
+ADBE,ADBE,Information Technology,1454,1.0,2021-01-04,2026-10-16,False,True
+ADC,ADC,Real Estate,1454,1.0,2021-01-04,2026-10-16,False,True
+ADI,ADI,Information Technology,1454,1.0,2021-01-04,2026-10-16,False,True
+ADM,ADM,Consumer Staples,1454,1.0,2021-01-04,2026-10-16,False,True
+ADP,ADP,Industrials,1454,1.0,2021-01-04,2026-10-16,False,True
+ADSK,ADSK,Information Technology,1454,1.0,2021-01-04,2026-10-16,False,True
+ADT,ADT,Consumer Discretionary,1454,1.0,2021-01-04,2026-10-16,False,True
+AEE,AEE,Utilities,1454,1.0,2021-01-04,2026-10-16,False,True
+AEIS,AEIS,Information Technology,1454,1.0,2021-01-04,2026-10-16,False,True
+AEP,AEP,Utilities,1454,1.0,2021-01-04,2026-10-16,False,True
+AES,AES,Utilities,1454,1.0,2021-01-04,2026-10-16,False,True
+AFG,AFG,Financials,1454,1.0,2021-01-04,2026-10-16,False,True
+AFL,AFL,Financials,1454,1.0,2021-01-04,2026-10-16,False,True
+AFRM,AFRM,Information Technology,1447,0.9951856946354883,2021-01-13,2026-10-16,False,True
+AGCO,AGCO,Industrials,1454,1.0,2021-01-04,2026-10-16,False,True
+AGNC,AGNC,Financials,1454,1.0,2021-01-04,2026-10-16,False,True
+AGO,AGO,Financials,1454,1.0,2021-01-04,2026-10-16,False,True
+AHR,AHR,Real Estate,676,0.4649243466299862,2024-02-07,2026-10-16,False,True
+AIG,AIG,Financials,1454,1.0,2021-01-04,2026-10-16,False,True
+AIT,AIT,Industrials,1454,1.0,2021-01-04,2026-10-16,False,True
+AIZ,AIZ,Financials,1454,1.0,2021-01-04,2026-10-16,False,True
+AJG,AJG,Financials,1454,1.0,2021-01-04,2026-10-16,False,True
+AKAM,AKAM,Information Technology,1454,1.0,2021-01-04,2026-10-16,False,True
+ALAB,ALAB,Information Technology,647,0.4449793672627235,2024-03-20,2026-10-16,False,True
+ALB,ALB,Materials,1454,1.0,2021-01-04,2026-10-16,False,True
+ALGM,ALGM,Information Technology,1454,1.0,2021-01-04,2026-10-16,False,True
+ALGN,ALGN,Health Care,1454,1.0,2021-01-04,2026-10-16,False,True
+ALK,ALK,Industrials,1454,1.0,2021-01-04,2026-10-16,False,True
+ALL,ALL,Financials,1454,1.0,2021-01-04,2026-10-16,False,True
+ALLE,ALLE,Industrials,1454,1.0,2021-01-04,2026-10-16,False,True
+ALLY,ALLY,Financials,1454,1.0,2021-01-04,2026-10-16,False,True
+ALM,ALM,Materials,1454,1.0,2021-01-04,2026-10-16,False,True
+ALNY,ALNY,Health Care,1454,1.0,2021-01-04,2026-10-16,False,True
+ALSN,ALSN,Industrials,1454,1.0,2021-01-04,2026-10-16,False,True
+AM,AM,Energy,1454,1.0,2021-01-04,2026-10-16,False,True
+AMAT,AMAT,Information Technology,1454,1.0,2021-01-04,2026-10-16,False,True
+AMCR,AMCR,Materials,1454,1.0,2021-01-04,2026-10-16,False,True
+AMD,AMD,Information Technology,1454,1.0,2021-01-04,2026-10-16,False,True
+AME,AME,Industrials,1454,1.0,2021-01-04,2026-10-16,False,True
+AMG,AMG,Financials,1454,1.0,2021-01-04,2026-10-16,False,True
+AMGN,AMGN,Health Care,1454,1.0,2021-01-04,2026-10-16,False,True
+AMH,AMH,Real Estate,1454,1.0,2021-01-04,2026-10-16,False,True
+AMKR,AMKR,Information Technology,1454,1.0,2021-01-04,2026-10-16,False,True
+AMP,AMP,Financials,1454,1.0,2021-01-04,2026-10-16,False,True
+AMT,AMT,Real Estate,1454,1.0,2021-01-04,2026-10-16,False,True
+AMTM,AMTM,Industrials,518,0.3562585969738652,2024-09-24,2026-10-16,False,True
+AMZN,AMZN,Consumer Discretionary,1454,1.0,2021-01-04,2026-10-16,False,True
+AN,AN,Consumer Discretionary,1454,1.0,2021-01-04,2026-10-16,False,True
+ANET,ANET,Information Technology,1454,1.0,2021-01-04,2026-10-16,False,True
+AON,AON,Financials,1454,1.0,2021-01-04,2026-10-16,False,True
+AOS,AOS,Industrials,1454,1.0,2021-01-04,2026-10-16,False,True
+APA,APA,Energy,1454,1.0,2021-01-04,2026-10-16,False,True
+APD,APD,Materials,1454,1.0,2021-01-04,2026-10-16,False,True
+APG,APG,Industrials,1454,1.0,2021-01-04,2026-10-16,False,True
+APH,APH,Information Technology,1454,1.0,2021-01-04,2026-10-16,False,True
+APLD,APLD,Information Technology,1132,0.7785419532324622,2022-04-13,2026-10-16,False,True
+APO,APO,Financials,1454,1.0,2021-01-04,2026-10-16,False,True
+APP,APP,Information Technology,1384,0.951856946354883,2021-04-15,2026-10-16,False,True
+APPF,APPF,Information Technology,1454,1.0,2021-01-04,2026-10-16,False,True
+APTV,APTV,Consumer Discretionary,1454,1.0,2021-01-04,2026-10-16,False,True
+AR,AR,Energy,1454,1.0,2021-01-04,2026-10-16,False,True
+ARE,ARE,Real Estate,1454,1.0,2021-01-04,2026-10-16,False,True
+ARES,ARES,Financials,1454,1.0,2021-01-04,2026-10-16,False,True
+ARMK,ARMK,Consumer Discretionary,1454,1.0,2021-01-04,2026-10-16,False,True
+ARW,ARW,Information Technology,1454,1.0,2021-01-04,2026-10-16,False,True
+ARWR,ARWR,Health Care,1454,1.0,2021-01-04,2026-10-16,False,True
+AS,AS,Consumer Discretionary,680,0.4676753782668501,2024-02-01,2026-10-16,False,True
+ASND,ASND,Health Care,1454,1.0,2021-01-04,2026-10-16,False,True
+ASTS,ASTS,Communication Services,1454,1.0,2021-01-04,2026-10-16,False,True
+ATI,ATI,Industrials,1454,1.0,2021-01-04,2026-10-16,False,True
+ATO,ATO,Utilities,1454,1.0,2021-01-04,2026-10-16,False,True
+ATR,ATR,Materials,1454,1.0,2021-01-04,2026-10-16,False,True
+AU,AU,Materials,1454,1.0,2021-01-04,2026-10-16,False,True
+AUGO,AUGO,Materials,317,0.21801925722145804,2025-07-16,2026-10-16,False,True
+AUR,AUR,Information Technology,1367,0.9401650618982118,2021-05-10,2026-10-16,False,True
+AVAV,AVAV,Industrials,1454,1.0,2021-01-04,2026-10-16,False,True
+AVGO,AVGO,Information Technology,1454,1.0,2021-01-04,2026-10-16,False,True
+AVT,AVT,Information Technology,1454,1.0,2021-01-04,2026-10-16,False,True
+AVTR,AVTR,Health Care,1454,1.0,2021-01-04,2026-10-16,False,True
+AVY,AVY,Materials,1454,1.0,2021-01-04,2026-10-16,False,True
+AWI,AWI,Industrials,1454,1.0,2021-01-04,2026-10-16,False,True
+AWK,AWK,Utilities,1454,1.0,2021-01-04,2026-10-16,False,True
+AXON,AXON,Industrials,1454,1.0,2021-01-04,2026-10-16,False,True
+AXP,AXP,Financials,1454,1.0,2021-01-04,2026-10-16,False,True
+AXS,AXS,Financials,1454,1.0,2021-01-04,2026-10-16,False,True
+AXSM,AXSM,Health Care,1454,1.0,2021-01-04,2026-10-16,False,True
+AXTA,AXTA,Materials,1454,1.0,2021-01-04,2026-10-16,False,True
+AYI,AYI,Industrials,1454,1.0,2021-01-04,2026-10-16,False,True
+AZO,AZO,Consumer Discretionary,1454,1.0,2021-01-04,2026-10-16,False,True
+BA,BA,Industrials,1454,1.0,2021-01-04,2026-10-16,False,True
+BAC,BAC,Financials,1454,1.0,2021-01-04,2026-10-16,False,True
+BAH,BAH,Industrials,1454,1.0,2021-01-04,2026-10-16,False,True
+BALL,BALL,Materials,1454,1.0,2021-01-04,2026-10-16,False,True
+BAM,BAM,Financials,972,0.6685006877579092,2022-12-01,2026-10-16,False,True
+BAX,BAX,Health Care,1454,1.0,2021-01-04,2026-10-16,False,True
+BBIO,BBIO,Health Care,1454,1.0,2021-01-04,2026-10-16,False,True
+BBWI,BBWI,Consumer Discretionary,1454,1.0,2021-01-04,2026-10-16,False,True
+BBY,BBY,Consumer Discretionary,1454,1.0,2021-01-04,2026-10-16,False,True
+BC,BC,Consumer Discretionary,1454,1.0,2021-01-04,2026-10-16,False,True
+BDX,BDX,Health Care,1454,1.0,2021-01-04,2026-10-16,False,True
+BE,BE,Industrials,1454,1.0,2021-01-04,2026-10-16,False,True
+BEN,BEN,Financials,1454,1.0,2021-01-04,2026-10-16,False,True
+BEPC,BEPC,Utilities,1454,1.0,2021-01-04,2026-10-16,False,True
+BF.A,BF-A,Consumer Staples,1454,1.0,2021-01-04,2026-10-16,False,True
+BF.B,BF-B,Consumer Staples,1454,1.0,2021-01-04,2026-10-16,False,True
+BFAM,BFAM,Consumer Discretionary,1454,1.0,2021-01-04,2026-10-16,False,True
+BG,BG,Consumer Staples,1454,1.0,2021-01-04,2026-10-16,False,True
+BHF,BHF,Financials,1454,1.0,2021-01-04,2026-10-16,False,True
+BIIB,BIIB,Health Care,1454,1.0,2021-01-04,2026-10-16,False,True
+BILL,BILL,Information Technology,1454,1.0,2021-01-04,2026-10-16,False,True
+BIO,BIO,Health Care,1454,1.0,2021-01-04,2026-10-16,False,True
+BIRK,BIRK,Consumer Discretionary,757,0.5206327372764786,2023-10-11,2026-10-16,False,True
+BJ,BJ,Consumer Staples,1454,1.0,2021-01-04,2026-10-16,False,True
+BKNG,BKNG,Consumer Discretionary,1454,1.0,2021-01-04,2026-10-16,False,True
+BKR,BKR,Energy,1454,1.0,2021-01-04,2026-10-16,False,True
+BLDR,BLDR,Industrials,1454,1.0,2021-01-04,2026-10-16,False,True
+BLK,BLK,Financials,1454,1.0,2021-01-04,2026-10-16,False,True
+BLSH,BLSH,Financials,297,0.20426409903713894,2025-08-13,2026-10-16,False,True
+BMNR,BMNR,Information Technology,344,0.23658872077028886,2025-06-05,2026-10-16,False,True
+BMRN,BMRN,Health Care,1454,1.0,2021-01-04,2026-10-16,False,True
+BMY,BMY,Health Care,1454,1.0,2021-01-04,2026-10-16,False,True
+BNY,BNY,Financials,1454,1.0,2021-01-04,2026-10-16,False,True
+BOKF,BOKF,Financials,1454,1.0,2021-01-04,2026-10-16,False,True
+BPOP,BPOP,Financials,1454,1.0,2021-01-04,2026-10-16,False,True
+BR,BR,Industrials,1454,1.0,2021-01-04,2026-10-16,False,True
+BRK.B,BRK-B,Financials,1454,1.0,2021-01-04,2026-10-16,False,True
+BRKR,BRKR,Health Care,1454,1.0,2021-01-04,2026-10-16,False,True
+BRO,BRO,Financials,1454,1.0,2021-01-04,2026-10-16,False,True
+BROS,BROS,Consumer Discretionary,1278,0.8789546079779917,2021-09-15,2026-10-16,False,True
+BRX,BRX,Real Estate,1454,1.0,2021-01-04,2026-10-16,False,True
+BSX,BSX,Health Care,1454,1.0,2021-01-04,2026-10-16,False,True
+BSY,BSY,Information Technology,1454,1.0,2021-01-04,2026-10-16,False,True
+BURL,BURL,Consumer Discretionary,1454,1.0,2021-01-04,2026-10-16,False,True
+BWA,BWA,Consumer Discretionary,1454,1.0,2021-01-04,2026-10-16,False,True
+BWXT,BWXT,Industrials,1454,1.0,2021-01-04,2026-10-16,False,True
+BX,BX,Financials,1454,1.0,2021-01-04,2026-10-16,False,True
+BXP,BXP,Real Estate,1454,1.0,2021-01-04,2026-10-16,False,True
+BYD,BYD,Consumer Discretionary,1454,1.0,2021-01-04,2026-10-16,False,True
+C,C,Financials,1454,1.0,2021-01-04,2026-10-16,False,True
+CACC,CACC,Financials,1454,1.0,2021-01-04,2026-10-16,False,True
+CACI,CACI,Industrials,1454,1.0,2021-01-04,2026-10-16,False,True
+CAG,CAG,Consumer Staples,1454,1.0,2021-01-04,2026-10-16,False,True
+CAH,CAH,Health Care,1454,1.0,2021-01-04,2026-10-16,False,True
+CAI,CAI,Health Care,335,0.23039889958734525,2025-06-18,2026-10-16,False,True
+CAR,CAR,Industrials,1454,1.0,2021-01-04,2026-10-16,False,True
+CARR,CARR,Industrials,1454,1.0,2021-01-04,2026-10-16,False,True
+CART,CART,Consumer Staples,773,0.5316368638239339,2023-09-19,2026-10-16,False,True
+CASY,CASY,Consumer Staples,1454,1.0,2021-01-04,2026-10-16,False,True
+CAT,CAT,Industrials,1454,1.0,2021-01-04,2026-10-16,False,True
+CAVA,CAVA,Consumer Discretionary,838,0.5763411279229711,2023-06-15,2026-10-16,False,True
+CB,CB,Financials,1454,1.0,2021-01-04,2026-10-16,False,True
+CBC,CBC,Financials,226,0.15543328748280605,2025-11-21,2026-10-16,False,False
+CBOE,CBOE,Financials,1454,1.0,2021-01-04,2026-10-16,False,True
+CBRE,CBRE,Real Estate,1454,1.0,2021-01-04,2026-10-16,False,True
+CBSH,CBSH,Financials,1454,1.0,2021-01-04,2026-10-16,False,True
+CCC,CCC,Information Technology,1454,1.0,2021-01-04,2026-10-16,False,True
+CCI,CCI,Real Estate,1454,1.0,2021-01-04,2026-10-16,False,True
+CCK,CCK,Materials,1454,1.0,2021-01-04,2026-10-16,False,True
+CCL,CCL,Consumer Discretionary,1454,1.0,2021-01-04,2026-10-16,False,True
+CDE,CDE,Materials,1454,1.0,2021-01-04,2026-10-16,False,True
+CDNS,CDNS,Information Technology,1454,1.0,2021-01-04,2026-10-16,False,True
+CDW,CDW,Information Technology,1454,1.0,2021-01-04,2026-10-16,False,True
+CE,CE,Materials,1454,1.0,2021-01-04,2026-10-16,False,True
+CEG,CEG,Utilities,1191,0.8191196698762035,2022-01-19,2026-10-16,False,True
+CELH,CELH,Consumer Staples,1454,1.0,2021-01-04,2026-10-16,False,True
+CF,CF,Materials,1454,1.0,2021-01-04,2026-10-16,False,True
+CFG,CFG,Financials,1454,1.0,2021-01-04,2026-10-16,False,True
+CFR,CFR,Financials,1454,1.0,2021-01-04,2026-10-16,False,True
+CG,CG,Financials,1454,1.0,2021-01-04,2026-10-16,False,True
+CGNX,CGNX,Information Technology,1454,1.0,2021-01-04,2026-10-16,False,True
+CHD,CHD,Consumer Staples,1454,1.0,2021-01-04,2026-10-16,False,True
+CHDN,CHDN,Consumer Discretionary,1454,1.0,2021-01-04,2026-10-16,False,True
+CHE,CHE,Health Care,1454,1.0,2021-01-04,2026-10-16,False,True
+CHH,CHH,Consumer Discretionary,1454,1.0,2021-01-04,2026-10-16,False,True
+CHRD,CHRD,Energy,1454,1.0,2021-01-04,2026-10-16,False,True
+CHRW,CHRW,Industrials,1454,1.0,2021-01-04,2026-10-16,False,True
+CHTR,CHTR,Communication Services,1454,1.0,2021-01-04,2026-10-16,False,True
+CHWY,CHWY,Consumer Discretionary,1454,1.0,2021-01-04,2026-10-16,False,True
+CHYM,CHYM,Financials,339,0.23314993122420907,2025-06-12,2026-10-16,False,True
+CI,CI,Health Care,1454,1.0,2021-01-04,2026-10-16,False,True
+CIEN,CIEN,Information Technology,1454,1.0,2021-01-04,2026-10-16,False,True
+CINF,CINF,Financials,1454,1.0,2021-01-04,2026-10-16,False,True
+CL,CL,Consumer Staples,1454,1.0,2021-01-04,2026-10-16,False,True
+CLF,CLF,Materials,1454,1.0,2021-01-04,2026-10-16,False,True
+CLH,CLH,Industrials,1454,1.0,2021-01-04,2026-10-16,False,True
+CLX,CLX,Consumer Staples,1454,1.0,2021-01-04,2026-10-16,False,True
+CMCSA,CMCSA,Communication Services,1454,1.0,2021-01-04,2026-10-16,False,True
+CME,CME,Financials,1454,1.0,2021-01-04,2026-10-16,False,True
+CMG,CMG,Consumer Discretionary,1454,1.0,2021-01-04,2026-10-16,False,True
+CMI,CMI,Industrials,1454,1.0,2021-01-04,2026-10-16,False,True
+CMS,CMS,Utilities,1454,1.0,2021-01-04,2026-10-16,False,True
+CNA,CNA,Financials,1454,1.0,2021-01-04,2026-10-16,False,True
+CNC,CNC,Health Care,1454,1.0,2021-01-04,2026-10-16,False,True
+CNH,CNH,Industrials,1454,1.0,2021-01-04,2026-10-16,False,True
+CNM,CNM,Industrials,1316,0.9050894085281981,2021-07-22,2026-10-16,False,True
+CNP,CNP,Utilities,1454,1.0,2021-01-04,2026-10-16,False,True
+COF,COF,Financials,1454,1.0,2021-01-04,2026-10-16,False,True
+COHR,COHR,Information Technology,1454,1.0,2021-01-04,2026-10-16,False,True
+COIN,COIN,Financials,1385,0.952544704264099,2021-04-14,2026-10-16,False,True
+COKE,COKE,Consumer Staples,1454,1.0,2021-01-04,2026-10-16,False,True
+COLB,COLB,Financials,1454,1.0,2021-01-04,2026-10-16,False,True
+COLD,COLD,Real Estate,1454,1.0,2021-01-04,2026-10-16,False,True
+COLM,COLM,Consumer Discretionary,1454,1.0,2021-01-04,2026-10-16,False,True
+COO,COO,Health Care,1454,1.0,2021-01-04,2026-10-16,False,True
+COP,COP,Energy,1454,1.0,2021-01-04,2026-10-16,False,True
+COR,COR,Health Care,1454,1.0,2021-01-04,2026-10-16,False,True
+CORT,CORT,Health Care,1454,1.0,2021-01-04,2026-10-16,False,True
+COST,COST,Consumer Staples,1454,1.0,2021-01-04,2026-10-16,False,True
+CPAY,CPAY,Financials,1454,1.0,2021-01-04,2026-10-16,False,True
+CPB,CPB,Consumer Staples,1454,1.0,2021-01-04,2026-10-16,False,True
+CPNG,CPNG,Consumer Discretionary,1408,0.9683631361760661,2021-03-11,2026-10-16,False,True
+CPRT,CPRT,Industrials,1454,1.0,2021-01-04,2026-10-16,False,True
+CPT,CPT,Real Estate,1454,1.0,2021-01-04,2026-10-16,False,True
+CR,CR,Industrials,892,0.6134800550206327,2023-03-29,2026-10-16,False,True
+CRBG,CRBG,Financials,1025,0.7049518569463549,2022-09-16,2026-10-16,False,True
+CRCL,CRCL,Information Technology,344,0.23658872077028886,2025-06-05,2026-10-16,False,True
+CRDO,CRDO,Information Technology,1185,0.8149931224209078,2022-01-27,2026-10-16,False,True
+CRH,CRH,Materials,1454,1.0,2021-01-04,2026-10-16,False,True
+CRL,CRL,Health Care,1454,1.0,2021-01-04,2026-10-16,False,True
+CRM,CRM,Information Technology,1454,1.0,2021-01-04,2026-10-16,False,True
+CROX,CROX,Consumer Discretionary,1454,1.0,2021-01-04,2026-10-16,False,True
+CRS,CRS,Materials,1454,1.0,2021-01-04,2026-10-16,False,True
+CRUS,CRUS,Information Technology,1454,1.0,2021-01-04,2026-10-16,False,True
+CRWD,CRWD,Information Technology,1454,1.0,2021-01-04,2026-10-16,False,True
+CRWV,CRWV,Information Technology,391,0.2689133425034388,2025-03-28,2026-10-16,False,True
+CSCO,CSCO,Information Technology,1454,1.0,2021-01-04,2026-10-16,False,True
+CSGP,CSGP,Real Estate,1454,1.0,2021-01-04,2026-10-16,False,True
+CSL,CSL,Industrials,1454,1.0,2021-01-04,2026-10-16,False,True
+CSX,CSX,Industrials,1454,1.0,2021-01-04,2026-10-16,False,True
+CTAS,CTAS,Industrials,1454,1.0,2021-01-04,2026-10-16,False,True
+CTSH,CTSH,Information Technology,1454,1.0,2021-01-04,2026-10-16,False,True
+CTVA,CTVA,Materials,1454,1.0,2021-01-04,2026-10-16,False,True
+CUBE,CUBE,Real Estate,1454,1.0,2021-01-04,2026-10-16,False,True
+CUZ,CUZ,Real Estate,1454,1.0,2021-01-04,2026-10-16,False,True
+CVNA,CVNA,Consumer Discretionary,1454,1.0,2021-01-04,2026-10-16,False,True
+CVS,CVS,Health Care,1454,1.0,2021-01-04,2026-10-16,False,True
+CVX,CVX,Energy,1454,1.0,2021-01-04,2026-10-16,False,True
+CW,CW,Industrials,1454,1.0,2021-01-04,2026-10-16,False,True
+CWEN,CWEN,Utilities,1454,1.0,2021-01-04,2026-10-16,False,True
+CZR,CZR,Consumer Discretionary,1454,1.0,2021-01-04,2026-10-16,False,True
+D,D,Utilities,1454,1.0,2021-01-04,2026-10-16,False,True
+DAL,DAL,Industrials,1454,1.0,2021-01-04,2026-10-16,False,True
+DAR,DAR,Consumer Staples,1454,1.0,2021-01-04,2026-10-16,False,True
+DASH,DASH,Consumer Discretionary,1454,1.0,2021-01-04,2026-10-16,False,True
+DBX,DBX,Information Technology,1454,1.0,2021-01-04,2026-10-16,False,True
+DCI,DCI,Industrials,1454,1.0,2021-01-04,2026-10-16,False,True
+DD,DD,Materials,1454,1.0,2021-01-04,2026-10-16,False,True
+DDOG,DDOG,Information Technology,1454,1.0,2021-01-04,2026-10-16,False,True
+DDS,DDS,Consumer Discretionary,1452,0.9986244841815681,2021-01-04,2026-10-16,False,True
+DE,DE,Industrials,1454,1.0,2021-01-04,2026-10-16,False,True
+DECK,DECK,Consumer Discretionary,1454,1.0,2021-01-04,2026-10-16,False,True
+DELL,DELL,Information Technology,1454,1.0,2021-01-04,2026-10-16,False,True
+DG,DG,Consumer Staples,1454,1.0,2021-01-04,2026-10-16,False,True
+DGX,DGX,Health Care,1454,1.0,2021-01-04,2026-10-16,False,True
+DHI,DHI,Consumer Discretionary,1454,1.0,2021-01-04,2026-10-16,False,True
+DHR,DHR,Health Care,1454,1.0,2021-01-04,2026-10-16,False,True
+DINO,DINO,Energy,1454,1.0,2021-01-04,2026-10-16,False,True
+DIS,DIS,Communication Services,1454,1.0,2021-01-04,2026-10-16,False,True
+DKNG,DKNG,Consumer Discretionary,1454,1.0,2021-01-04,2026-10-16,False,True
+DKS,DKS,Consumer Discretionary,1454,1.0,2021-01-04,2026-10-16,False,True
+DLB,DLB,Information Technology,1454,1.0,2021-01-04,2026-10-16,False,True
+DLR,DLR,Real Estate,1454,1.0,2021-01-04,2026-10-16,False,True
+DLTR,DLTR,Consumer Staples,1454,1.0,2021-01-04,2026-10-16,False,True
+DOC,DOC,Real Estate,1454,1.0,2021-01-04,2026-10-16,False,True
+DOCN,DOCN,Information Technology,1399,0.9621733149931224,2021-03-24,2026-10-16,False,True
+DOCS,DOCS,Health Care,1335,0.9181568088033012,2021-06-24,2026-10-16,False,True
+DOCU,DOCU,Information Technology,1454,1.0,2021-01-04,2026-10-16,False,True
+DOV,DOV,Industrials,1454,1.0,2021-01-04,2026-10-16,False,True
+DOW,DOW,Materials,1454,1.0,2021-01-04,2026-10-16,False,True
+DOX,DOX,Information Technology,1454,1.0,2021-01-04,2026-10-16,False,True
+DPZ,DPZ,Consumer Discretionary,1454,1.0,2021-01-04,2026-10-16,False,True
+DRI,DRI,Consumer Discretionary,1454,1.0,2021-01-04,2026-10-16,False,True
+DRS,DRS,Industrials,1454,1.0,2021-01-04,2026-10-16,False,True
+DT,DT,Information Technology,1454,1.0,2021-01-04,2026-10-16,False,True
+DTE,DTE,Utilities,1454,1.0,2021-01-04,2026-10-16,False,True
+DTM,DTM,Energy,1330,0.9147180192572214,2021-07-01,2026-10-16,False,True
+DUK,DUK,Utilities,1454,1.0,2021-01-04,2026-10-16,False,True
+DUOL,DUOL,Consumer Discretionary,1312,0.9023383768913342,2021-07-28,2026-10-16,False,True
+DVA,DVA,Health Care,1454,1.0,2021-01-04,2026-10-16,False,True
+DVN,DVN,Energy,1454,1.0,2021-01-04,2026-10-16,False,True
+DXCM,DXCM,Health Care,1454,1.0,2021-01-04,2026-10-16,False,True
+DY,DY,Industrials,1454,1.0,2021-01-04,2026-10-16,False,True
+EBAY,EBAY,Consumer Discretionary,1454,1.0,2021-01-04,2026-10-16,False,True
+ECG,ECG,Industrials,494,0.33975240715268223,2024-10-28,2026-10-16,False,True
+ECHO,ECHO,Communication Services,1454,1.0,2021-01-04,2026-10-16,False,True
+ECL,ECL,Materials,1454,1.0,2021-01-04,2026-10-16,False,True
+ED,ED,Utilities,1454,1.0,2021-01-04,2026-10-16,False,True
+EEFT,EEFT,Financials,1454,1.0,2021-01-04,2026-10-16,False,True
+EFX,EFX,Industrials,1454,1.0,2021-01-04,2026-10-16,False,True
+EG,EG,Financials,1454,1.0,2021-01-04,2026-10-16,False,True
+EGP,EGP,Real Estate,1454,1.0,2021-01-04,2026-10-16,False,True
+EHC,EHC,Health Care,1454,1.0,2021-01-04,2026-10-16,False,True
+EIX,EIX,Utilities,1454,1.0,2021-01-04,2026-10-16,False,True
+EL,EL,Consumer Staples,1454,1.0,2021-01-04,2026-10-16,False,True
+ELAN,ELAN,Health Care,1454,1.0,2021-01-04,2026-10-16,False,True
+ELF,ELF,Consumer Staples,1454,1.0,2021-01-04,2026-10-16,False,True
+ELS,ELS,Real Estate,1454,1.0,2021-01-04,2026-10-16,False,True
+ELV,ELV,Health Care,1454,1.0,2021-01-04,2026-10-16,False,True
+EME,EME,Industrials,1454,1.0,2021-01-04,2026-10-16,False,True
+EMN,EMN,Materials,1454,1.0,2021-01-04,2026-10-16,False,True
+EMR,EMR,Industrials,1454,1.0,2021-01-04,2026-10-16,False,True
+ENPH,ENPH,Information Technology,1454,1.0,2021-01-04,2026-10-16,False,True
+ENSG,ENSG,Health Care,1454,1.0,2021-01-04,2026-10-16,False,True
+ENTG,ENTG,Information Technology,1454,1.0,2021-01-04,2026-10-16,False,True
+EOG,EOG,Energy,1454,1.0,2021-01-04,2026-10-16,False,True
+EPAM,EPAM,Information Technology,1454,1.0,2021-01-04,2026-10-16,False,True
+EPR,EPR,Real Estate,1454,1.0,2021-01-04,2026-10-16,False,True
+EQH,EQH,Financials,1454,1.0,2021-01-04,2026-10-16,False,True
+EQIX,EQIX,Real Estate,1454,1.0,2021-01-04,2026-10-16,False,True
+EQT,EQT,Energy,1454,1.0,2021-01-04,2026-10-16,False,True
+ES,ES,Utilities,1454,1.0,2021-01-04,2026-10-16,False,True
+ESAB,ESAB,Industrials,1143,0.7861072902338377,2022-03-29,2026-10-16,False,True
+ESI,ESI,Materials,1454,1.0,2021-01-04,2026-10-16,False,True
+ESS,ESS,Real Estate,1454,1.0,2021-01-04,2026-10-16,False,True
+ESTC,ESTC,Information Technology,1454,1.0,2021-01-04,2026-10-16,False,True
+ETN,ETN,Industrials,1454,1.0,2021-01-04,2026-10-16,False,True
+ETR,ETR,Utilities,1454,1.0,2021-01-04,2026-10-16,False,True
+ETSY,ETSY,Consumer Discretionary,1454,1.0,2021-01-04,2026-10-16,False,True
+EVR,EVR,Financials,1454,1.0,2021-01-04,2026-10-16,False,True
+EVRG,EVRG,Utilities,1454,1.0,2021-01-04,2026-10-16,False,True
+EW,EW,Health Care,1454,1.0,2021-01-04,2026-10-16,False,True
+EWBC,EWBC,Financials,1454,1.0,2021-01-04,2026-10-16,False,True
+EXC,EXC,Utilities,1454,1.0,2021-01-04,2026-10-16,False,True
+EXE,EXE,Energy,1428,0.9821182943603851,2021-02-10,2026-10-16,False,True
+EXEL,EXEL,Health Care,1454,1.0,2021-01-04,2026-10-16,False,True
+EXLS,EXLS,Industrials,1454,1.0,2021-01-04,2026-10-16,False,True
+EXP,EXP,Materials,1454,1.0,2021-01-04,2026-10-16,False,True
+EXPD,EXPD,Industrials,1454,1.0,2021-01-04,2026-10-16,False,True
+EXPE,EXPE,Consumer Discretionary,1454,1.0,2021-01-04,2026-10-16,False,True
+EXR,EXR,Real Estate,1454,1.0,2021-01-04,2026-10-16,False,True
+F,F,Consumer Discretionary,1454,1.0,2021-01-04,2026-10-16,False,True
+FAF,FAF,Financials,1454,1.0,2021-01-04,2026-10-16,False,True
+FANG,FANG,Energy,1454,1.0,2021-01-04,2026-10-16,False,True
+FAST,FAST,Industrials,1454,1.0,2021-01-04,2026-10-16,False,True
+FBIN,FBIN,Industrials,1454,1.0,2021-01-04,2026-10-16,False,True
+FCN,FCN,Industrials,1454,1.0,2021-01-04,2026-10-16,False,True
+FCNCA,FCNCA,Financials,1454,1.0,2021-01-04,2026-10-16,False,True
+FCX,FCX,Materials,1454,1.0,2021-01-04,2026-10-16,False,True
+FDS,FDS,Financials,1454,1.0,2021-01-04,2026-10-16,False,True
+FDX,FDX,Industrials,1454,1.0,2021-01-04,2026-10-16,False,True
+FDXF,FDXF,Industrials,100,0.0687757909215956,2026-05-27,2026-10-16,False,False
+FE,FE,Utilities,1454,1.0,2021-01-04,2026-10-16,False,True
+FERG,FERG,Industrials,1454,1.0,2021-01-04,2026-10-16,False,True
+FFIV,FFIV,Information Technology,1454,1.0,2021-01-04,2026-10-16,False,True
+FHB,FHB,Financials,1454,1.0,2021-01-04,2026-10-16,False,True
+FHN,FHN,Financials,1454,1.0,2021-01-04,2026-10-16,False,True
+FICO,FICO,Information Technology,1454,1.0,2021-01-04,2026-10-16,False,True
+FIG,FIG,Information Technology,306,0.21045392022008252,2025-07-31,2026-10-16,False,True
+FIGR,FIGR,Financials,277,0.1905089408528198,2025-09-11,2026-10-16,False,True
+FIS,FIS,Financials,1454,1.0,2021-01-04,2026-10-16,False,True
+FISV,FISV,Financials,1453,0.9993122420907841,2021-01-04,2026-10-16,False,True
+FITB,FITB,Financials,1454,1.0,2021-01-04,2026-10-16,False,True
+FIVE,FIVE,Consumer Discretionary,1454,1.0,2021-01-04,2026-10-16,False,True
+FIX,FIX,Industrials,1454,1.0,2021-01-04,2026-10-16,False,True
+FLEX,FLEX,Information Technology,1454,1.0,2021-01-04,2026-10-16,False,True
+FLS,FLS,Industrials,1454,1.0,2021-01-04,2026-10-16,False,True
+FLUT,FLUT,Consumer Discretionary,1454,1.0,2021-01-04,2026-10-16,False,True
+FN,FN,Information Technology,1454,1.0,2021-01-04,2026-10-16,False,True
+FNB,FNB,Financials,1454,1.0,2021-01-04,2026-10-16,False,True
+FND,FND,Consumer Discretionary,1454,1.0,2021-01-04,2026-10-16,False,True
+FNF,FNF,Financials,1454,1.0,2021-01-04,2026-10-16,False,True
+FORM,FORM,Information Technology,1454,1.0,2021-01-04,2026-10-16,False,True
+FOUR,FOUR,Information Technology,1454,1.0,2021-01-04,2026-10-16,False,True
+FOX,FOX,Communication Services,1454,1.0,2021-01-04,2026-10-16,False,True
+FOXA,FOXA,Communication Services,1454,1.0,2021-01-04,2026-10-16,False,True
+FPS,FPS,Industrials,176,0.12104539202200826,2026-02-05,2026-10-16,False,False
+FR,FR,Real Estate,1454,1.0,2021-01-04,2026-10-16,False,True
+FRHC,FRHC,Financials,1454,1.0,2021-01-04,2026-10-16,False,True
+FRMI,FRMI,Real Estate,263,0.18088033012379642,2025-10-01,2026-10-16,False,True
+FRPT,FRPT,Consumer Staples,1454,1.0,2021-01-04,2026-10-16,False,True
+FRT,FRT,Real Estate,1454,1.0,2021-01-04,2026-10-16,False,True
+FSLR,FSLR,Information Technology,1454,1.0,2021-01-04,2026-10-16,False,True
+FTAI,FTAI,Industrials,1454,1.0,2021-01-04,2026-10-16,False,True
+FTI,FTI,Energy,1454,1.0,2021-01-04,2026-10-16,False,True
+FTNT,FTNT,Information Technology,1454,1.0,2021-01-04,2026-10-16,False,True
+FTV,FTV,Industrials,1454,1.0,2021-01-04,2026-10-16,False,True
+FWONA,FWONA,Communication Services,1454,1.0,2021-01-04,2026-10-16,False,True
+FWONK,FWONK,Communication Services,1454,1.0,2021-01-04,2026-10-16,False,True
+G,G,Industrials,1454,1.0,2021-01-04,2026-10-16,False,True
+GAP,GAP,Consumer Discretionary,1454,1.0,2021-01-04,2026-10-16,False,True
+GD,GD,Industrials,1454,1.0,2021-01-04,2026-10-16,False,True
+GDDY,GDDY,Information Technology,1454,1.0,2021-01-04,2026-10-16,False,True
+GE,GE,Industrials,1454,1.0,2021-01-04,2026-10-16,False,True
+GEHC,GEHC,Health Care,962,0.6616231086657497,2022-12-15,2026-10-16,False,True
+GEN,GEN,Information Technology,1454,1.0,2021-01-04,2026-10-16,False,True
+GEV,GEV,Industrials,642,0.44154057771664373,2024-03-27,2026-10-16,False,True
+GFL,GFL,Industrials,1454,1.0,2021-01-04,2026-10-16,False,True
+GFS,GFS,Information Technology,1247,0.8576341127922971,2021-10-28,2026-10-16,False,True
+GGG,GGG,Industrials,1454,1.0,2021-01-04,2026-10-16,False,True
+GH,GH,Health Care,1454,1.0,2021-01-04,2026-10-16,False,True
+GILD,GILD,Health Care,1454,1.0,2021-01-04,2026-10-16,False,True
+GIS,GIS,Consumer Staples,1454,1.0,2021-01-04,2026-10-16,False,True
+GL,GL,Financials,1454,1.0,2021-01-04,2026-10-16,False,True
+GLPI,GLPI,Real Estate,1454,1.0,2021-01-04,2026-10-16,False,True
+GLW,GLW,Information Technology,1454,1.0,2021-01-04,2026-10-16,False,True
+GLXY,GLXY,Financials,357,0.24552957359009628,2025-05-16,2026-10-16,False,True
+GM,GM,Consumer Discretionary,1454,1.0,2021-01-04,2026-10-16,False,True
+GME,GME,Consumer Discretionary,1454,1.0,2021-01-04,2026-10-16,False,True
+GMED,GMED,Health Care,1454,1.0,2021-01-04,2026-10-16,False,True
+GNRC,GNRC,Industrials,1454,1.0,2021-01-04,2026-10-16,False,True
+GNTX,GNTX,Consumer Discretionary,1454,1.0,2021-01-04,2026-10-16,False,True
+GOOG,GOOG,Communication Services,1454,1.0,2021-01-04,2026-10-16,False,True
+GOOGL,GOOGL,Communication Services,1454,1.0,2021-01-04,2026-10-16,False,True
+GPC,GPC,Consumer Discretionary,1454,1.0,2021-01-04,2026-10-16,False,True
+GPK,GPK,Materials,1454,1.0,2021-01-04,2026-10-16,False,True
+GPN,GPN,Financials,1454,1.0,2021-01-04,2026-10-16,False,True
+GRMN,GRMN,Consumer Discretionary,1454,1.0,2021-01-04,2026-10-16,False,True
+GS,GS,Financials,1454,1.0,2021-01-04,2026-10-16,False,True
+GSAT,GSAT,Information Technology,1454,1.0,2021-01-04,2026-10-16,False,True
+GTES,GTES,Industrials,1454,1.0,2021-01-04,2026-10-16,False,True
+GTLB,GTLB,Information Technology,1257,0.8645116918844566,2021-10-14,2026-10-16,False,True
+GTM,GTM,Communication Services,1454,1.0,2021-01-04,2026-10-16,False,True
+GWRE,GWRE,Information Technology,1454,1.0,2021-01-04,2026-10-16,False,True
+GWW,GWW,Industrials,1454,1.0,2021-01-04,2026-10-16,False,True
+GXO,GXO,Industrials,1316,0.9050894085281981,2021-07-22,2026-10-16,False,True
+H,H,Consumer Discretionary,1454,1.0,2021-01-04,2026-10-16,False,True
+HAL,HAL,Energy,1454,1.0,2021-01-04,2026-10-16,False,True
+HALO,HALO,Health Care,1454,1.0,2021-01-04,2026-10-16,False,True
+HAS,HAS,Consumer Discretionary,1454,1.0,2021-01-04,2026-10-16,False,True
+HAYW,HAYW,Industrials,1407,0.96767537826685,2021-03-12,2026-10-16,False,True
+HBAN,HBAN,Financials,1454,1.0,2021-01-04,2026-10-16,False,True
+HCA,HCA,Health Care,1454,1.0,2021-01-04,2026-10-16,False,True
+HD,HD,Consumer Discretionary,1454,1.0,2021-01-04,2026-10-16,False,True
+HEI,HEI,Industrials,1454,1.0,2021-01-04,2026-10-16,False,True
+HEI.A,HEI-A,Industrials,1454,1.0,2021-01-04,2026-10-16,False,True
+HHH,HHH,Real Estate,1454,1.0,2021-01-04,2026-10-16,False,True
+HIG,HIG,Financials,1454,1.0,2021-01-04,2026-10-16,False,True
+HII,HII,Industrials,1454,1.0,2021-01-04,2026-10-16,False,True
+HL,HL,Materials,1454,1.0,2021-01-04,2026-10-16,False,True
+HLI,HLI,Financials,1454,1.0,2021-01-04,2026-10-16,False,True
+HLNE,HLNE,Financials,1454,1.0,2021-01-04,2026-10-16,False,True
+HLT,HLT,Consumer Discretionary,1454,1.0,2021-01-04,2026-10-16,False,True
+HON,HON,Industrials,1454,1.0,2021-01-04,2026-10-16,False,True
+HONA,HONA,Industrials,87,0.05983493810178817,2026-06-15,2026-10-16,False,False
+HOOD,HOOD,Financials,1311,0.9016506189821183,2021-07-29,2026-10-16,False,True
+HPE,HPE,Information Technology,1454,1.0,2021-01-04,2026-10-16,False,True
+HPQ,HPQ,Information Technology,1454,1.0,2021-01-04,2026-10-16,False,True
+HR,HR,Real Estate,1454,1.0,2021-01-04,2026-10-16,False,True
+HRB,HRB,Consumer Discretionary,1454,1.0,2021-01-04,2026-10-16,False,True
+HRL,HRL,Consumer Staples,1454,1.0,2021-01-04,2026-10-16,False,True
+HSIC,HSIC,Health Care,1454,1.0,2021-01-04,2026-10-16,False,True
+HST,HST,Real Estate,1454,1.0,2021-01-04,2026-10-16,False,True
+HSY,HSY,Consumer Staples,1454,1.0,2021-01-04,2026-10-16,False,True
+HUBB,HUBB,Industrials,1454,1.0,2021-01-04,2026-10-16,False,True
+HUBS,HUBS,Information Technology,1454,1.0,2021-01-04,2026-10-16,False,True
+HUM,HUM,Health Care,1454,1.0,2021-01-04,2026-10-16,False,True
+HWM,HWM,Industrials,1454,1.0,2021-01-04,2026-10-16,False,True
+HXL,HXL,Industrials,1454,1.0,2021-01-04,2026-10-16,False,True
+IBKR,IBKR,Financials,1454,1.0,2021-01-04,2026-10-16,False,True
+IBM,IBM,Information Technology,1454,1.0,2021-01-04,2026-10-16,False,True
+ICE,ICE,Financials,1454,1.0,2021-01-04,2026-10-16,False,True
+IDA,IDA,Utilities,1454,1.0,2021-01-04,2026-10-16,False,True
+IDXX,IDXX,Health Care,1454,1.0,2021-01-04,2026-10-16,False,True
+IESC,IESC,Industrials,1454,1.0,2021-01-04,2026-10-16,False,True
+IEX,IEX,Industrials,1454,1.0,2021-01-04,2026-10-16,False,True
+IFF,IFF,Materials,1454,1.0,2021-01-04,2026-10-16,False,True
+ILMN,ILMN,Health Care,1454,1.0,2021-01-04,2026-10-16,False,True
+INCY,INCY,Health Care,1454,1.0,2021-01-04,2026-10-16,False,True
+INGM,INGM,Information Technology,496,0.34112792297111416,2024-10-24,2026-10-16,False,True
+INGR,INGR,Consumer Staples,1454,1.0,2021-01-04,2026-10-16,False,True
+INSM,INSM,Health Care,1454,1.0,2021-01-04,2026-10-16,False,True
+INTC,INTC,Information Technology,1454,1.0,2021-01-04,2026-10-16,False,True
+INTU,INTU,Information Technology,1454,1.0,2021-01-04,2026-10-16,False,True
+INVH,INVH,Real Estate,1454,1.0,2021-01-04,2026-10-16,False,True
+IONQ,IONQ,Information Technology,1454,1.0,2021-01-04,2026-10-16,False,True
+IONS,IONS,Health Care,1454,1.0,2021-01-04,2026-10-16,False,True
+IOT,IOT,Information Technology,1214,0.8349381017881705,2021-12-15,2026-10-16,False,True
+IP,IP,Materials,1454,1.0,2021-01-04,2026-10-16,False,True
+IPGP,IPGP,Information Technology,1454,1.0,2021-01-04,2026-10-16,False,True
+IQV,IQV,Health Care,1454,1.0,2021-01-04,2026-10-16,False,True
+IR,IR,Industrials,1454,1.0,2021-01-04,2026-10-16,False,True
+IRDM,IRDM,Communication Services,1454,1.0,2021-01-04,2026-10-16,False,True
+IREN,IREN,Information Technology,1233,0.8480055020632737,2021-11-17,2026-10-16,False,True
+IRM,IRM,Real Estate,1454,1.0,2021-01-04,2026-10-16,False,True
+ISRG,ISRG,Health Care,1454,1.0,2021-01-04,2026-10-16,False,True
+IT,IT,Information Technology,1454,1.0,2021-01-04,2026-10-16,False,True
+ITT,ITT,Industrials,1454,1.0,2021-01-04,2026-10-16,False,True
+ITW,ITW,Industrials,1454,1.0,2021-01-04,2026-10-16,False,True
+IVZ,IVZ,Financials,1454,1.0,2021-01-04,2026-10-16,False,True
+J,J,Industrials,1454,1.0,2021-01-04,2026-10-16,False,True
+JAN,JAN,Real Estate,146,0.10041265474552957,2026-03-20,2026-10-16,False,False
+JAZZ,JAZZ,Health Care,1454,1.0,2021-01-04,2026-10-16,False,True
+JBHT,JBHT,Industrials,1454,1.0,2021-01-04,2026-10-16,False,True
+JBL,JBL,Information Technology,1454,1.0,2021-01-04,2026-10-16,False,True
+JBS,JBS,Consumer Staples,338,0.2324621733149931,2025-06-13,2026-10-16,False,True
+JCI,JCI,Industrials,1454,1.0,2021-01-04,2026-10-16,False,True
+JEF,JEF,Financials,1454,1.0,2021-01-04,2026-10-16,False,True
+JHX,JHX,Materials,1454,1.0,2021-01-04,2026-10-16,False,True
+JKHY,JKHY,Financials,1454,1.0,2021-01-04,2026-10-16,False,True
+JLL,JLL,Real Estate,1454,1.0,2021-01-04,2026-10-16,False,True
+JMKE,JMKE,Consumer Discretionary,56,0.03851444291609354,2026-07-30,2026-10-16,False,False
+JNJ,JNJ,Health Care,1454,1.0,2021-01-04,2026-10-16,False,True
+JPM,JPM,Financials,1454,1.0,2021-01-04,2026-10-16,False,True
+KBR,KBR,Industrials,1454,1.0,2021-01-04,2026-10-16,False,True
+KD,KD,Information Technology,1251,0.8603851444291609,2021-10-22,2026-10-16,False,True
+KDP,KDP,Consumer Staples,1454,1.0,2021-01-04,2026-10-16,False,True
+KEX,KEX,Industrials,1454,1.0,2021-01-04,2026-10-16,False,True
+KEY,KEY,Financials,1454,1.0,2021-01-04,2026-10-16,False,True
+KEYS,KEYS,Information Technology,1454,1.0,2021-01-04,2026-10-16,False,True
+KHC,KHC,Consumer Staples,1454,1.0,2021-01-04,2026-10-16,False,True
+KIM,KIM,Real Estate,1454,1.0,2021-01-04,2026-10-16,False,True
+KKR,KKR,Financials,1454,1.0,2021-01-04,2026-10-16,False,True
+KLAC,KLAC,Information Technology,1454,1.0,2021-01-04,2026-10-16,False,True
+KMB,KMB,Consumer Staples,1454,1.0,2021-01-04,2026-10-16,False,True
+KMI,KMI,Energy,1454,1.0,2021-01-04,2026-10-16,False,True
+KMX,KMX,Consumer Discretionary,1454,1.0,2021-01-04,2026-10-16,False,True
+KNSL,KNSL,Financials,1454,1.0,2021-01-04,2026-10-16,False,True
+KNX,KNX,Industrials,1454,1.0,2021-01-04,2026-10-16,False,True
+KO,KO,Consumer Staples,1454,1.0,2021-01-04,2026-10-16,False,True
+KR,KR,Consumer Staples,1454,1.0,2021-01-04,2026-10-16,False,True
+KRC,KRC,Real Estate,1454,1.0,2021-01-04,2026-10-16,False,True
+KRMN,KRMN,Industrials,421,0.2895460797799175,2025-02-13,2026-10-16,False,True
+KTOS,KTOS,Industrials,1454,1.0,2021-01-04,2026-10-16,False,True
+KVUE,KVUE,Consumer Staples,867,0.5962861072902338,2023-05-04,2026-10-16,False,True
+KVYO,KVYO,Information Technology,772,0.530949105914718,2023-09-20,2026-10-16,False,True
+L,L,Financials,1454,1.0,2021-01-04,2026-10-16,False,True
+LAD,LAD,Consumer Discretionary,1454,1.0,2021-01-04,2026-10-16,False,True
+LAMR,LAMR,Real Estate,1454,1.0,2021-01-04,2026-10-16,False,True
+LAZ,LAZ,Financials,1454,1.0,2021-01-04,2026-10-16,False,True
+LBRDA,LBRDA,Communication Services,1395,0.9594222833562586,2021-01-04,2026-08-21,False,True
+LBRDK,LBRDK,Communication Services,1,0.000687757909215956,2026-08-19,2026-08-19,False,False
+LBTYA,LBTYA,Communication Services,1454,1.0,2021-01-04,2026-10-16,False,True
+LBTYK,LBTYK,Communication Services,1454,1.0,2021-01-04,2026-10-16,False,True
+LDOS,LDOS,Industrials,1454,1.0,2021-01-04,2026-10-16,False,True
+LEA,LEA,Consumer Discretionary,1454,1.0,2021-01-04,2026-10-16,False,True
+LECO,LECO,Industrials,1454,1.0,2021-01-04,2026-10-16,False,True
+LEN,LEN,Consumer Discretionary,1454,1.0,2021-01-04,2026-10-16,False,True
+LEN.B,LEN-B,Consumer Discretionary,1454,1.0,2021-01-04,2026-10-16,False,True
+LFUS,LFUS,Information Technology,1454,1.0,2021-01-04,2026-10-16,False,True
+LH,LH,Health Care,1454,1.0,2021-01-04,2026-10-16,False,True
+LHX,LHX,Industrials,1454,1.0,2021-01-04,2026-10-16,False,True
+LII,LII,Industrials,1454,1.0,2021-01-04,2026-10-16,False,True
+LIN,LIN,Materials,1454,1.0,2021-01-04,2026-10-16,False,True
+LINE,LINE,Real Estate,560,0.38514442916093533,2024-07-25,2026-10-16,False,True
+LITE,LITE,Information Technology,1454,1.0,2021-01-04,2026-10-16,False,True
+LKQ,LKQ,Consumer Discretionary,1454,1.0,2021-01-04,2026-10-16,False,True
+LLY,LLY,Health Care,1454,1.0,2021-01-04,2026-10-16,False,True
+LLYVA,LLYVA,Communication Services,804,0.5529573590096286,2023-08-04,2026-10-16,False,True
+LLYVK,LLYVK,Communication Services,804,0.5529573590096286,2023-08-04,2026-10-16,False,True
+LMT,LMT,Industrials,1454,1.0,2021-01-04,2026-10-16,False,True
+LNC,LNC,Financials,1454,1.0,2021-01-04,2026-10-16,False,True
+LNG,LNG,Energy,1454,1.0,2021-01-04,2026-10-16,False,True
+LNT,LNT,Utilities,1454,1.0,2021-01-04,2026-10-16,False,True
+LOAR,LOAR,Industrials,622,0.42778541953232463,2024-04-25,2026-10-16,False,True
+LOPE,LOPE,Consumer Discretionary,1454,1.0,2021-01-04,2026-10-16,False,True
+LOW,LOW,Consumer Discretionary,1454,1.0,2021-01-04,2026-10-16,False,True
+LPLA,LPLA,Financials,1454,1.0,2021-01-04,2026-10-16,False,True
+LPX,LPX,Materials,1454,1.0,2021-01-04,2026-10-16,False,True
+LRCX,LRCX,Information Technology,1454,1.0,2021-01-04,2026-10-16,False,True
+LSCC,LSCC,Information Technology,1454,1.0,2021-01-04,2026-10-16,False,True
+LSTR,LSTR,Industrials,1454,1.0,2021-01-04,2026-10-16,False,True
+LULU,LULU,Consumer Discretionary,1454,1.0,2021-01-04,2026-10-16,False,True
+LUV,LUV,Industrials,1454,1.0,2021-01-04,2026-10-16,False,True
+LVS,LVS,Consumer Discretionary,1454,1.0,2021-01-04,2026-10-16,False,True
+LW,LW,Consumer Staples,1454,1.0,2021-01-04,2026-10-16,False,True
+LYB,LYB,Materials,1454,1.0,2021-01-04,2026-10-16,False,True
+LYFT,LYFT,Industrials,1454,1.0,2021-01-04,2026-10-16,False,True
+LYV,LYV,Communication Services,1454,1.0,2021-01-04,2026-10-16,False,True
+M,M,Consumer Discretionary,1454,1.0,2021-01-04,2026-10-16,False,True
+MA,MA,Financials,1454,1.0,2021-01-04,2026-10-16,False,True
+MAA,MAA,Real Estate,1454,1.0,2021-01-04,2026-10-16,False,True
+MANH,MANH,Information Technology,1454,1.0,2021-01-04,2026-10-16,False,True
+MAR,MAR,Consumer Discretionary,1454,1.0,2021-01-04,2026-10-16,False,True
+MAS,MAS,Industrials,1454,1.0,2021-01-04,2026-10-16,False,True
+MAT,MAT,Consumer Discretionary,1454,1.0,2021-01-04,2026-10-16,False,True
+MBGL,MBGL,Industrials,79,0.054332874828060526,2026-06-26,2026-10-16,False,False
+MCD,MCD,Consumer Discretionary,1454,1.0,2021-01-04,2026-10-16,False,True
+MCHP,MCHP,Information Technology,1454,1.0,2021-01-04,2026-10-16,False,True
+MCK,MCK,Health Care,1454,1.0,2021-01-04,2026-10-16,False,True
+MCO,MCO,Financials,1454,1.0,2021-01-04,2026-10-16,False,True
+MDB,MDB,Information Technology,1454,1.0,2021-01-04,2026-10-16,False,True
+MDGL,MDGL,Health Care,1454,1.0,2021-01-04,2026-10-16,False,True
+MDLN,MDLN,Health Care,209,0.1437414030261348,2025-12-17,2026-10-16,False,False
+MDLZ,MDLZ,Consumer Staples,1454,1.0,2021-01-04,2026-10-16,False,True
+MDT,MDT,Health Care,1454,1.0,2021-01-04,2026-10-16,False,True
+MDU,MDU,Utilities,1454,1.0,2021-01-04,2026-10-16,False,True
+MEDP,MEDP,Health Care,1454,1.0,2021-01-04,2026-10-16,False,True
+MET,MET,Financials,1454,1.0,2021-01-04,2026-10-16,False,True
+META,META,Communication Services,1454,1.0,2021-01-04,2026-10-16,False,True
+MFP,MFP,Industrials,79,0.054332874828060526,2026-06-26,2026-10-16,False,False
+MGM,MGM,Consumer Discretionary,1454,1.0,2021-01-04,2026-10-16,False,True
+MHK,MHK,Consumer Discretionary,1454,1.0,2021-01-04,2026-10-16,False,True
+MIDD,MIDD,Industrials,1454,1.0,2021-01-04,2026-10-16,False,True
+MKC,MKC,Consumer Staples,1454,1.0,2021-01-04,2026-10-16,False,True
+MKL,MKL,Financials,1454,1.0,2021-01-04,2026-10-16,False,True
+MKSI,MKSI,Information Technology,1454,1.0,2021-01-04,2026-10-16,False,True
+MKTX,MKTX,Financials,1454,1.0,2021-01-04,2026-10-16,False,True
+MLI,MLI,Industrials,1454,1.0,2021-01-04,2026-10-16,False,True
+MLM,MLM,Materials,1454,1.0,2021-01-04,2026-10-16,False,True
+MMM,MMM,Industrials,1454,1.0,2021-01-04,2026-10-16,False,True
+MNST,MNST,Consumer Staples,1454,1.0,2021-01-04,2026-10-16,False,True
+MO,MO,Consumer Staples,1454,1.0,2021-01-04,2026-10-16,False,True
+MOD,MOD,Industrials,1454,1.0,2021-01-04,2026-10-16,False,True
+MOH,MOH,Health Care,1454,1.0,2021-01-04,2026-10-16,False,True
+MORN,MORN,Financials,1454,1.0,2021-01-04,2026-10-16,False,True
+MOS,MOS,Materials,1454,1.0,2021-01-04,2026-10-16,False,True
+MP,MP,Materials,1454,1.0,2021-01-04,2026-10-16,False,True
+MPC,MPC,Energy,1454,1.0,2021-01-04,2026-10-16,False,True
+MPT,MPT,Real Estate,1454,1.0,2021-01-04,2026-10-16,False,True
+MPWR,MPWR,Information Technology,1454,1.0,2021-01-04,2026-10-16,False,True
+MRK,MRK,Health Care,1454,1.0,2021-01-04,2026-10-16,False,True
+MRNA,MRNA,Health Care,1454,1.0,2021-01-04,2026-10-16,False,True
+MRP,MRP,Consumer Discretionary,427,0.2936726272352132,2025-02-05,2026-10-16,False,True
+MRSH,MRSH,Financials,1454,1.0,2021-01-04,2026-10-16,False,True
+MRVL,MRVL,Information Technology,1454,1.0,2021-01-04,2026-10-16,False,True
+MS,MS,Financials,1454,1.0,2021-01-04,2026-10-16,False,True
+MSA,MSA,Industrials,1454,1.0,2021-01-04,2026-10-16,False,True
+MSCI,MSCI,Financials,1454,1.0,2021-01-04,2026-10-16,False,True
+MSFT,MSFT,Information Technology,1454,1.0,2021-01-04,2026-10-16,False,True
+MSGS,MSGS,Communication Services,1454,1.0,2021-01-04,2026-10-16,False,True
+MSI,MSI,Information Technology,1454,1.0,2021-01-04,2026-10-16,False,True
+MSM,MSM,Industrials,1454,1.0,2021-01-04,2026-10-16,False,True
+MSTR,MSTR,Information Technology,1454,1.0,2021-01-04,2026-10-16,False,True
+MTB,MTB,Financials,1454,1.0,2021-01-04,2026-10-16,False,True
+MTCH,MTCH,Communication Services,1454,1.0,2021-01-04,2026-10-16,False,True
+MTD,MTD,Health Care,1454,1.0,2021-01-04,2026-10-16,False,True
+MTDR,MTDR,Energy,1454,1.0,2021-01-04,2026-10-16,False,True
+MTG,MTG,Financials,1454,1.0,2021-01-04,2026-10-16,False,True
+MTN,MTN,Consumer Discretionary,1454,1.0,2021-01-04,2026-10-16,False,True
+MTSI,MTSI,Information Technology,1454,1.0,2021-01-04,2026-10-16,False,True
+MTZ,MTZ,Industrials,1454,1.0,2021-01-04,2026-10-16,False,True
+MU,MU,Information Technology,1454,1.0,2021-01-04,2026-10-16,False,True
+MUSA,MUSA,Consumer Discretionary,1454,1.0,2021-01-04,2026-10-16,False,True
+MWH,MWH,Industrials,171,0.11760660247592847,2026-02-12,2026-10-16,False,False
+NBIX,NBIX,Health Care,1454,1.0,2021-01-04,2026-10-16,False,True
+NCLH,NCLH,Consumer Discretionary,1454,1.0,2021-01-04,2026-10-16,False,True
+NDAQ,NDAQ,Financials,1454,1.0,2021-01-04,2026-10-16,False,True
+NDSN,NDSN,Industrials,1454,1.0,2021-01-04,2026-10-16,False,True
+NEE,NEE,Utilities,1454,1.0,2021-01-04,2026-10-16,False,True
+NEM,NEM,Materials,1454,1.0,2021-01-04,2026-10-16,False,True
+NET,NET,Information Technology,1454,1.0,2021-01-04,2026-10-16,False,True
+NEU,NEU,Materials,1454,1.0,2021-01-04,2026-10-16,False,True
+NFG,NFG,Utilities,1454,1.0,2021-01-04,2026-10-16,False,True
+NFLX,NFLX,Communication Services,1454,1.0,2021-01-04,2026-10-16,False,True
+NI,NI,Utilities,1454,1.0,2021-01-04,2026-10-16,False,True
+NIQ,NIQ,Communication Services,312,0.21458046767537828,2025-07-23,2026-10-16,False,True
+NKE,NKE,Consumer Discretionary,1454,1.0,2021-01-04,2026-10-16,False,True
+NLY,NLY,Financials,1454,1.0,2021-01-04,2026-10-16,False,True
+NNN,NNN,Real Estate,1454,1.0,2021-01-04,2026-10-16,False,True
+NOC,NOC,Industrials,1454,1.0,2021-01-04,2026-10-16,False,True
+NOV,NOV,Energy,1454,1.0,2021-01-04,2026-10-16,False,True
+NOW,NOW,Information Technology,1454,1.0,2021-01-04,2026-10-16,False,True
+NRG,NRG,Utilities,1454,1.0,2021-01-04,2026-10-16,False,True
+NSC,NSC,Industrials,1454,1.0,2021-01-04,2026-10-16,False,True
+NTAP,NTAP,Information Technology,1454,1.0,2021-01-04,2026-10-16,False,True
+NTNX,NTNX,Information Technology,1454,1.0,2021-01-04,2026-10-16,False,True
+NTRA,NTRA,Health Care,1454,1.0,2021-01-04,2026-10-16,False,True
+NTRS,NTRS,Financials,1454,1.0,2021-01-04,2026-10-16,False,True
+NU,NU,Financials,1218,0.8376891334250344,2021-12-09,2026-10-16,False,True
+NUE,NUE,Materials,1454,1.0,2021-01-04,2026-10-16,False,True
+NVDA,NVDA,Information Technology,1454,1.0,2021-01-04,2026-10-16,False,True
+NVR,NVR,Consumer Discretionary,1454,1.0,2021-01-04,2026-10-16,False,True
+NVST,NVST,Health Care,1454,1.0,2021-01-04,2026-10-16,False,True
+NVT,NVT,Industrials,1454,1.0,2021-01-04,2026-10-16,False,True
+NWS,NWS,Communication Services,1454,1.0,2021-01-04,2026-10-16,False,True
+NWSA,NWSA,Communication Services,1454,1.0,2021-01-04,2026-10-16,False,True
+NXST,NXST,Communication Services,1454,1.0,2021-01-04,2026-10-16,False,True
+NXT,NXT,Industrials,925,0.6361760660247593,2023-02-09,2026-10-16,False,True
+NYT,NYT,Communication Services,1454,1.0,2021-01-04,2026-10-16,False,True
+O,O,Real Estate,1454,1.0,2021-01-04,2026-10-16,False,True
+OC,OC,Industrials,1454,1.0,2021-01-04,2026-10-16,False,True
+ODFL,ODFL,Industrials,1454,1.0,2021-01-04,2026-10-16,False,True
+OGE,OGE,Utilities,1454,1.0,2021-01-04,2026-10-16,False,True
+OGN,OGN,Health Care,1363,0.937414030261348,2021-05-14,2026-10-16,False,True
+OHI,OHI,Real Estate,1454,1.0,2021-01-04,2026-10-16,False,True
+OKE,OKE,Energy,1454,1.0,2021-01-04,2026-10-16,False,True
+OKLO,OKLO,Utilities,1326,0.9119669876203577,2021-07-08,2026-10-16,False,True
+OKTA,OKTA,Information Technology,1454,1.0,2021-01-04,2026-10-16,False,True
+OLED,OLED,Information Technology,1454,1.0,2021-01-04,2026-10-16,False,True
+OLLI,OLLI,Consumer Discretionary,1454,1.0,2021-01-04,2026-10-16,False,True
+OLN,OLN,Materials,1454,1.0,2021-01-04,2026-10-16,False,True
+OMC,OMC,Communication Services,1454,1.0,2021-01-04,2026-10-16,False,True
+OMF,OMF,Financials,1454,1.0,2021-01-04,2026-10-16,False,True
+ON,ON,Information Technology,1454,1.0,2021-01-04,2026-10-16,False,True
+ONON,ONON,Consumer Discretionary,1278,0.8789546079779917,2021-09-15,2026-10-16,False,True
+ONTO,ONTO,Information Technology,1454,1.0,2021-01-04,2026-10-16,False,True
+ORCL,ORCL,Information Technology,1454,1.0,2021-01-04,2026-10-16,False,True
+ORI,ORI,Financials,1454,1.0,2021-01-04,2026-10-16,False,True
+ORLY,ORLY,Consumer Discretionary,1454,1.0,2021-01-04,2026-10-16,False,True
+OSK,OSK,Industrials,1454,1.0,2021-01-04,2026-10-16,False,True
+OTIS,OTIS,Industrials,1454,1.0,2021-01-04,2026-10-16,False,True
+OVV,OVV,Energy,1454,1.0,2021-01-04,2026-10-16,False,True
+OWL,OWL,Financials,1454,1.0,2021-01-04,2026-10-16,False,True
+OXY,OXY,Energy,1454,1.0,2021-01-04,2026-10-16,False,True
+OZK,OZK,Financials,1454,1.0,2021-01-04,2026-10-16,False,True
+P,P,Information Technology,1454,1.0,2021-01-04,2026-10-16,False,True
+PAG,PAG,Consumer Discretionary,1454,1.0,2021-01-04,2026-10-16,False,True
+PANW,PANW,Information Technology,1454,1.0,2021-01-04,2026-10-16,False,True
+PATH,PATH,Information Technology,1380,0.9491059147180193,2021-04-21,2026-10-16,False,True
+PAYC,PAYC,Information Technology,1454,1.0,2021-01-04,2026-10-16,False,True
+PAYX,PAYX,Industrials,1454,1.0,2021-01-04,2026-10-16,False,True
+PB,PB,Financials,1454,1.0,2021-01-04,2026-10-16,False,True
+PCAR,PCAR,Industrials,1454,1.0,2021-01-04,2026-10-16,False,True
+PCG,PCG,Utilities,1454,1.0,2021-01-04,2026-10-16,False,True
+PCOR,PCOR,Information Technology,1359,0.9346629986244842,2021-05-20,2026-10-16,False,True
+PCTY,PCTY,Information Technology,1454,1.0,2021-01-04,2026-10-16,False,True
+PEG,PEG,Utilities,1454,1.0,2021-01-04,2026-10-16,False,True
+PEGA,PEGA,Information Technology,1454,1.0,2021-01-04,2026-10-16,False,True
+PEN,PEN,Health Care,1454,1.0,2021-01-04,2026-10-16,False,True
+PEP,PEP,Consumer Staples,1454,1.0,2021-01-04,2026-10-16,False,True
+PFE,PFE,Health Care,1454,1.0,2021-01-04,2026-10-16,False,True
+PFG,PFG,Financials,1454,1.0,2021-01-04,2026-10-16,False,True
+PFGC,PFGC,Consumer Staples,1454,1.0,2021-01-04,2026-10-16,False,True
+PG,PG,Consumer Staples,1454,1.0,2021-01-04,2026-10-16,False,True
+PGR,PGR,Financials,1454,1.0,2021-01-04,2026-10-16,False,True
+PH,PH,Industrials,1454,1.0,2021-01-04,2026-10-16,False,True
+PHM,PHM,Consumer Discretionary,1454,1.0,2021-01-04,2026-10-16,False,True
+PINS,PINS,Communication Services,1454,1.0,2021-01-04,2026-10-16,False,True
+PKG,PKG,Materials,1454,1.0,2021-01-04,2026-10-16,False,True
+PL,PL,Industrials,1377,0.9470426409903714,2021-04-26,2026-10-16,False,True
+PLD,PLD,Real Estate,1454,1.0,2021-01-04,2026-10-16,False,True
+PLNT,PLNT,Consumer Discretionary,1454,1.0,2021-01-04,2026-10-16,False,True
+PLTR,PLTR,Information Technology,1454,1.0,2021-01-04,2026-10-16,False,True
+PM,PM,Consumer Staples,1454,1.0,2021-01-04,2026-10-16,False,True
+PNC,PNC,Financials,1454,1.0,2021-01-04,2026-10-16,False,True
+PNFP,PNFP,Financials,1454,1.0,2021-01-04,2026-10-16,False,True
+PNR,PNR,Industrials,1454,1.0,2021-01-04,2026-10-16,False,True
+PNW,PNW,Utilities,1454,1.0,2021-01-04,2026-10-16,False,True
+PODD,PODD,Health Care,1454,1.0,2021-01-04,2026-10-16,False,True
+POOL,POOL,Consumer Discretionary,1454,1.0,2021-01-04,2026-10-16,False,True
+POST,POST,Consumer Staples,1454,1.0,2021-01-04,2026-10-16,False,True
+POWL,POWL,Industrials,1454,1.0,2021-01-04,2026-10-16,False,True
+PPC,PPC,Consumer Staples,1454,1.0,2021-01-04,2026-10-16,False,True
+PPG,PPG,Materials,1454,1.0,2021-01-04,2026-10-16,False,True
+PPL,PPL,Utilities,1454,1.0,2021-01-04,2026-10-16,False,True
+PPLI,PPLI,Communication Services,1454,1.0,2021-01-04,2026-10-16,False,True
+PR,PR,Energy,1454,1.0,2021-01-04,2026-10-16,False,True
+PRI,PRI,Financials,1454,1.0,2021-01-04,2026-10-16,False,True
+PRIM,PRIM,Industrials,1454,1.0,2021-01-04,2026-10-16,False,True
+PRMB,PRMB,Consumer Staples,1454,1.0,2021-01-04,2026-10-16,False,True
+PRU,PRU,Financials,1454,1.0,2021-01-04,2026-10-16,False,True
+PSA,PSA,Real Estate,1454,1.0,2021-01-04,2026-10-16,False,True
+PSN,PSN,Industrials,1454,1.0,2021-01-04,2026-10-16,False,True
+PSX,PSX,Energy,1454,1.0,2021-01-04,2026-10-16,False,True
+PTC,PTC,Information Technology,1454,1.0,2021-01-04,2026-10-16,False,True
+PVH,PVH,Consumer Discretionary,1454,1.0,2021-01-04,2026-10-16,False,True
+PWR,PWR,Industrials,1454,1.0,2021-01-04,2026-10-16,False,True
+PYPL,PYPL,Financials,1454,1.0,2021-01-04,2026-10-16,False,True
+Q,Q,Information Technology,245,0.16850068775790922,2025-10-27,2026-10-16,False,False
+QCOM,QCOM,Information Technology,1454,1.0,2021-01-04,2026-10-16,False,True
+QGEN,QGEN,Health Care,1454,1.0,2021-01-04,2026-10-16,False,True
+QRVO,QRVO,Information Technology,1,0.000687757909215956,2026-10-02,2026-10-02,False,False
+QS,QS,Consumer Discretionary,1454,1.0,2021-01-04,2026-10-16,False,True
+QSR,QSR,Consumer Discretionary,1454,1.0,2021-01-04,2026-10-16,False,True
+QXO,QXO,Industrials,1454,1.0,2021-01-04,2026-10-16,False,True
+R,R,Industrials,1454,1.0,2021-01-04,2026-10-16,False,True
+RAL,RAL,Information Technology,331,0.22764786795048142,2025-06-25,2026-10-16,False,True
+RBA,RBA,Industrials,1454,1.0,2021-01-04,2026-10-16,False,True
+RBC,RBC,Industrials,1454,1.0,2021-01-04,2026-10-16,False,True
+RBLX,RBLX,Communication Services,1409,0.969050894085282,2021-03-10,2026-10-16,False,True
+RBRK,RBRK,Information Technology,622,0.42778541953232463,2024-04-25,2026-10-16,False,True
+RCL,RCL,Consumer Discretionary,1454,1.0,2021-01-04,2026-10-16,False,True
+RDDT,RDDT,Communication Services,646,0.4442916093535076,2024-03-21,2026-10-16,False,True
+REG,REG,Real Estate,1454,1.0,2021-01-04,2026-10-16,False,True
+REGN,REGN,Health Care,1454,1.0,2021-01-04,2026-10-16,False,True
+REXR,REXR,Real Estate,1454,1.0,2021-01-04,2026-10-16,False,True
+REYN,REYN,Consumer Staples,1454,1.0,2021-01-04,2026-10-16,False,True
+RF,RF,Financials,1454,1.0,2021-01-04,2026-10-16,False,True
+RGA,RGA,Financials,1454,1.0,2021-01-04,2026-10-16,False,True
+RGEN,RGEN,Health Care,1454,1.0,2021-01-04,2026-10-16,False,True
+RGLD,RGLD,Materials,1454,1.0,2021-01-04,2026-10-16,False,True
+RHI,RHI,Industrials,1454,1.0,2021-01-04,2026-10-16,False,True
+RITM,RITM,Financials,1454,1.0,2021-01-04,2026-10-16,False,True
+RIVN,RIVN,Consumer Discretionary,1238,0.8514442916093535,2021-11-10,2026-10-16,False,True
+RJF,RJF,Financials,1454,1.0,2021-01-04,2026-10-16,False,True
+RKLB,RKLB,Industrials,1454,1.0,2021-01-04,2026-10-16,False,True
+RKT,RKT,Financials,1454,1.0,2021-01-04,2026-10-16,False,True
+RL,RL,Consumer Discretionary,1454,1.0,2021-01-04,2026-10-16,False,True
+RLI,RLI,Financials,1454,1.0,2021-01-04,2026-10-16,False,True
+RMBS,RMBS,Information Technology,1454,1.0,2021-01-04,2026-10-16,False,True
+RMD,RMD,Health Care,1454,1.0,2021-01-04,2026-10-16,False,True
+RNG,RNG,Information Technology,1454,1.0,2021-01-04,2026-10-16,False,True
+RNR,RNR,Financials,1454,1.0,2021-01-04,2026-10-16,False,True
+ROIV,ROIV,Health Care,1454,1.0,2021-01-04,2026-10-16,False,True
+ROK,ROK,Industrials,1454,1.0,2021-01-04,2026-10-16,False,True
+ROKU,ROKU,Communication Services,1454,1.0,2021-01-04,2026-10-16,False,True
+ROL,ROL,Industrials,1454,1.0,2021-01-04,2026-10-16,False,True
+ROP,ROP,Industrials,1454,1.0,2021-01-04,2026-10-16,False,True
+ROST,ROST,Consumer Discretionary,1454,1.0,2021-01-04,2026-10-16,False,True
+RPM,RPM,Materials,1454,1.0,2021-01-04,2026-10-16,False,True
+RPRX,RPRX,Health Care,1454,1.0,2021-01-04,2026-10-16,False,True
+RRC,RRC,Energy,1454,1.0,2021-01-04,2026-10-16,False,True
+RRX,RRX,Industrials,1454,1.0,2021-01-04,2026-10-16,False,True
+RS,RS,Materials,1454,1.0,2021-01-04,2026-10-16,False,True
+RSG,RSG,Industrials,1454,1.0,2021-01-04,2026-10-16,False,True
+RTX,RTX,Industrials,1454,1.0,2021-01-04,2026-10-16,False,True
+RVMD,RVMD,Health Care,1454,1.0,2021-01-04,2026-10-16,False,True
+RVTY,RVTY,Health Care,1454,1.0,2021-01-04,2026-10-16,False,True
+RYAN,RYAN,Financials,1316,0.9050894085281981,2021-07-22,2026-10-16,False,True
+RYN,RYN,Real Estate,1454,1.0,2021-01-04,2026-10-16,False,True
+S,S,Information Technology,1331,0.9154057771664375,2021-06-30,2026-10-16,False,True
+SAIA,SAIA,Industrials,1454,1.0,2021-01-04,2026-10-16,False,True
+SAIC,SAIC,Industrials,1454,1.0,2021-01-04,2026-10-16,False,True
+SAIL,SAIL,Information Technology,421,0.2895460797799175,2025-02-13,2026-10-16,False,True
+SANM,SANM,Information Technology,1454,1.0,2021-01-04,2026-10-16,False,True
+SARO,SARO,Industrials,512,0.35213204951856947,2024-10-02,2026-10-16,False,True
+SBAC,SBAC,Real Estate,1454,1.0,2021-01-04,2026-10-16,False,True
+SBUX,SBUX,Consumer Discretionary,1454,1.0,2021-01-04,2026-10-16,False,True
+SCCO,SCCO,Materials,1454,1.0,2021-01-04,2026-10-16,False,True
+SCHW,SCHW,Financials,1454,1.0,2021-01-04,2026-10-16,False,True
+SCI,SCI,Consumer Discretionary,1454,1.0,2021-01-04,2026-10-16,False,True
+SEB,SEB,Consumer Staples,1454,1.0,2021-01-04,2026-10-16,False,True
+SEIC,SEIC,Financials,1454,1.0,2021-01-04,2026-10-16,False,True
+SF,SF,Financials,1454,1.0,2021-01-04,2026-10-16,False,True
+SFD,SFD,Consumer Staples,433,0.2977991746905089,2025-01-28,2026-10-16,False,True
+SFM,SFM,Consumer Staples,1454,1.0,2021-01-04,2026-10-16,False,True
+SGI,SGI,Consumer Discretionary,1454,1.0,2021-01-04,2026-10-16,False,True
+SHC,SHC,Health Care,1454,1.0,2021-01-04,2026-10-16,False,True
+SHW,SHW,Materials,1454,1.0,2021-01-04,2026-10-16,False,True
+SIRI,SIRI,Communication Services,1454,1.0,2021-01-04,2026-10-16,False,True
+SITE,SITE,Industrials,1454,1.0,2021-01-04,2026-10-16,False,True
+SITM,SITM,Information Technology,1454,1.0,2021-01-04,2026-10-16,False,True
+SJM,SJM,Consumer Staples,1454,1.0,2021-01-04,2026-10-16,False,True
+SLB,SLB,Energy,1454,1.0,2021-01-04,2026-10-16,False,True
+SLGN,SLGN,Materials,1454,1.0,2021-01-04,2026-10-16,False,True
+SLM,SLM,Financials,1454,1.0,2021-01-04,2026-10-16,False,True
+SMCI,SMCI,Information Technology,1454,1.0,2021-01-04,2026-10-16,False,True
+SMG,SMG,Materials,1454,1.0,2021-01-04,2026-10-16,False,True
+SMMT,SMMT,Health Care,1454,1.0,2021-01-04,2026-10-16,False,True
+SMTC,SMTC,Information Technology,1454,1.0,2021-01-04,2026-10-16,False,True
+SN,SN,Consumer Discretionary,808,0.5557083906464925,2023-07-31,2026-10-16,False,True
+SNA,SNA,Industrials,1454,1.0,2021-01-04,2026-10-16,False,True
+SNDK,SNDK,Information Technology,421,0.2895460797799175,2025-02-13,2026-10-16,False,True
+SNDR,SNDR,Industrials,1454,1.0,2021-01-04,2026-10-16,False,True
+SNOW,SNOW,Information Technology,1454,1.0,2021-01-04,2026-10-16,False,True
+SNPS,SNPS,Information Technology,1454,1.0,2021-01-04,2026-10-16,False,True
+SNX,SNX,Information Technology,1454,1.0,2021-01-04,2026-10-16,False,True
+SO,SO,Utilities,1454,1.0,2021-01-04,2026-10-16,False,True
+SOFI,SOFI,Financials,1454,1.0,2021-01-04,2026-10-16,False,True
+SOLS,SOLS,Materials,250,0.171939477303989,2025-10-20,2026-10-16,False,False
+SOLV,SOLV,Health Care,643,0.44222833562585967,2024-03-26,2026-10-16,False,True
+SON,SON,Materials,1454,1.0,2021-01-04,2026-10-16,False,True
+SPCX,SPCX,Communication Services,88,0.06052269601100413,2026-06-12,2026-10-16,False,False
+SPG,SPG,Real Estate,1454,1.0,2021-01-04,2026-10-16,False,True
+SPGI,SPGI,Financials,1454,1.0,2021-01-04,2026-10-16,False,True
+SPOT,SPOT,Communication Services,1454,1.0,2021-01-04,2026-10-16,False,True
+SPXC,SPXC,Industrials,1454,1.0,2021-01-04,2026-10-16,False,True
+SRE,SRE,Utilities,1454,1.0,2021-01-04,2026-10-16,False,True
+SSB,SSB,Financials,1454,1.0,2021-01-04,2026-10-16,False,True
+SSD,SSD,Industrials,1454,1.0,2021-01-04,2026-10-16,False,True
+SSNC,SSNC,Information Technology,1454,1.0,2021-01-04,2026-10-16,False,True
+ST,ST,Industrials,1454,1.0,2021-01-04,2026-10-16,False,True
+STAG,STAG,Real Estate,1454,1.0,2021-01-04,2026-10-16,False,True
+STE,STE,Health Care,1454,1.0,2021-01-04,2026-10-16,False,True
+STLD,STLD,Materials,1454,1.0,2021-01-04,2026-10-16,False,True
+STRL,STRL,Industrials,1454,1.0,2021-01-04,2026-10-16,False,True
+STT,STT,Financials,1454,1.0,2021-01-04,2026-10-16,False,True
+STWD,STWD,Financials,1454,1.0,2021-01-04,2026-10-16,False,True
+STZ,STZ,Consumer Staples,1454,1.0,2021-01-04,2026-10-16,False,True
+SUI,SUI,Real Estate,1454,1.0,2021-01-04,2026-10-16,False,True
+SUNB,SUNB,Industrials,160,0.11004126547455295,2026-03-02,2026-10-16,False,False
+SW,SW,Materials,1454,1.0,2021-01-04,2026-10-16,False,True
+SWK,SWK,Industrials,1454,1.0,2021-01-04,2026-10-16,False,True
+SWKS,SWKS,Information Technology,1454,1.0,2021-01-04,2026-10-16,False,True
+SYF,SYF,Financials,1454,1.0,2021-01-04,2026-10-16,False,True
+SYK,SYK,Health Care,1454,1.0,2021-01-04,2026-10-16,False,True
+SYY,SYY,Consumer Staples,1454,1.0,2021-01-04,2026-10-16,False,True
+T,T,Communication Services,1454,1.0,2021-01-04,2026-10-16,False,True
+TAP,TAP,Consumer Staples,1454,1.0,2021-01-04,2026-10-16,False,True
+TDG,TDG,Industrials,1454,1.0,2021-01-04,2026-10-16,False,True
+TDY,TDY,Industrials,1454,1.0,2021-01-04,2026-10-16,False,True
+TEAM,TEAM,Information Technology,1454,1.0,2021-01-04,2026-10-16,False,True
+TECH,TECH,Health Care,1454,1.0,2021-01-04,2026-10-16,False,True
+TEM,TEM,Health Care,587,0.40371389270976615,2024-06-14,2026-10-16,False,True
+TER,TER,Information Technology,1454,1.0,2021-01-04,2026-10-16,False,True
+TFC,TFC,Financials,1454,1.0,2021-01-04,2026-10-16,False,True
+TFSL,TFSL,Financials,1454,1.0,2021-01-04,2026-10-16,False,True
+TFX,TFX,Health Care,1454,1.0,2021-01-04,2026-10-16,False,True
+TGT,TGT,Consumer Staples,1454,1.0,2021-01-04,2026-10-16,False,True
+THC,THC,Health Care,1454,1.0,2021-01-04,2026-10-16,False,True
+THG,THG,Financials,1454,1.0,2021-01-04,2026-10-16,False,True
+THO,THO,Consumer Discretionary,1454,1.0,2021-01-04,2026-10-16,False,True
+TIGO,TIGO,Communication Services,1454,1.0,2021-01-04,2026-10-16,False,True
+TJX,TJX,Consumer Discretionary,1454,1.0,2021-01-04,2026-10-16,False,True
+TKO,TKO,Communication Services,1454,1.0,2021-01-04,2026-10-16,False,True
+TKR,TKR,Industrials,1454,1.0,2021-01-04,2026-10-16,False,True
+TLN,TLN,Utilities,847,0.5825309491059147,2023-06-02,2026-10-16,False,True
+TMO,TMO,Health Care,1454,1.0,2021-01-04,2026-10-16,False,True
+TMUS,TMUS,Communication Services,1454,1.0,2021-01-04,2026-10-16,False,True
+TNL,TNL,Consumer Discretionary,1454,1.0,2021-01-04,2026-10-16,False,True
+TOL,TOL,Consumer Discretionary,1454,1.0,2021-01-04,2026-10-16,False,True
+TOST,TOST,Information Technology,1273,0.875515818431912,2021-09-22,2026-10-16,False,True
+TPG,TPG,Financials,1194,0.8211829436038515,2022-01-13,2026-10-16,False,True
+TPL,TPL,Energy,1454,1.0,2021-01-04,2026-10-16,False,True
+TPR,TPR,Consumer Discretionary,1454,1.0,2021-01-04,2026-10-16,False,True
+TREX,TREX,Industrials,1454,1.0,2021-01-04,2026-10-16,False,True
+TRGP,TRGP,Energy,1454,1.0,2021-01-04,2026-10-16,False,True
+TRMB,TRMB,Information Technology,1454,1.0,2021-01-04,2026-10-16,False,True
+TROW,TROW,Financials,1454,1.0,2021-01-04,2026-10-16,False,True
+TRU,TRU,Industrials,1454,1.0,2021-01-04,2026-10-16,False,True
+TRV,TRV,Financials,1454,1.0,2021-01-04,2026-10-16,False,True
+TSCO,TSCO,Consumer Discretionary,1454,1.0,2021-01-04,2026-10-16,False,True
+TSLA,TSLA,Consumer Discretionary,1454,1.0,2021-01-04,2026-10-16,False,True
+TSN,TSN,Consumer Staples,1454,1.0,2021-01-04,2026-10-16,False,True
+TT,TT,Industrials,1454,1.0,2021-01-04,2026-10-16,False,True
+TTC,TTC,Industrials,1454,1.0,2021-01-04,2026-10-16,False,True
+TTD,TTD,Communication Services,1454,1.0,2021-01-04,2026-10-16,False,True
+TTEK,TTEK,Industrials,1454,1.0,2021-01-04,2026-10-16,False,True
+TTMI,TTMI,Information Technology,1454,1.0,2021-01-04,2026-10-16,False,True
+TTWO,TTWO,Communication Services,1454,1.0,2021-01-04,2026-10-16,False,True
+TW,TW,Financials,1454,1.0,2021-01-04,2026-10-16,False,True
+TWLO,TWLO,Information Technology,1454,1.0,2021-01-04,2026-10-16,False,True
+TXN,TXN,Information Technology,1454,1.0,2021-01-04,2026-10-16,False,True
+TXRH,TXRH,Consumer Discretionary,1454,1.0,2021-01-04,2026-10-16,False,True
+TXT,TXT,Industrials,1454,1.0,2021-01-04,2026-10-16,False,True
+TYL,TYL,Information Technology,1454,1.0,2021-01-04,2026-10-16,False,True
+U,U,Information Technology,1454,1.0,2021-01-04,2026-10-16,False,True
+UAL,UAL,Industrials,1454,1.0,2021-01-04,2026-10-16,False,True
+UBER,UBER,Industrials,1454,1.0,2021-01-04,2026-10-16,False,True
+UDR,UDR,Real Estate,1454,1.0,2021-01-04,2026-10-16,False,True
+UGI,UGI,Utilities,1454,1.0,2021-01-04,2026-10-16,False,True
+UHAL,UHAL,Industrials,1454,1.0,2021-01-04,2026-10-16,False,True
+UHAL.B,UHAL-B,Industrials,986,0.6781292984869326,2022-11-10,2026-10-16,False,True
+UHS,UHS,Health Care,1454,1.0,2021-01-04,2026-10-16,False,True
+UI,UI,Information Technology,1454,1.0,2021-01-04,2026-10-16,False,True
+ULS,ULS,Industrials,631,0.4339752407152682,2024-04-12,2026-10-16,False,True
+ULTA,ULTA,Consumer Discretionary,1454,1.0,2021-01-04,2026-10-16,False,True
+UNH,UNH,Health Care,1454,1.0,2021-01-04,2026-10-16,False,True
+UNM,UNM,Financials,1454,1.0,2021-01-04,2026-10-16,False,True
+UNP,UNP,Industrials,1454,1.0,2021-01-04,2026-10-16,False,True
+UPS,UPS,Industrials,1454,1.0,2021-01-04,2026-10-16,False,True
+URI,URI,Industrials,1454,1.0,2021-01-04,2026-10-16,False,True
+USB,USB,Financials,1454,1.0,2021-01-04,2026-10-16,False,True
+USFD,USFD,Consumer Staples,1454,1.0,2021-01-04,2026-10-16,False,True
+UTHR,UTHR,Health Care,1454,1.0,2021-01-04,2026-10-16,False,True
+UWMC,UWMC,Financials,1454,1.0,2021-01-04,2026-10-16,False,True
+V,V,Financials,1454,1.0,2021-01-04,2026-10-16,False,True
+VEEV,VEEV,Health Care,1454,1.0,2021-01-04,2026-10-16,False,True
+VFC,VFC,Consumer Discretionary,1454,1.0,2021-01-04,2026-10-16,False,True
+VIAV,VIAV,Information Technology,1454,1.0,2021-01-04,2026-10-16,False,True
+VICI,VICI,Real Estate,1454,1.0,2021-01-04,2026-10-16,False,True
+VICR,VICR,Industrials,1454,1.0,2021-01-04,2026-10-16,False,True
+VIK,VIK,Consumer Discretionary,618,0.4250343878954608,2024-05-01,2026-10-16,False,True
+VIRT,VIRT,Financials,1454,1.0,2021-01-04,2026-10-16,False,True
+VKTX,VKTX,Health Care,1454,1.0,2021-01-04,2026-10-16,False,True
+VLO,VLO,Energy,1454,1.0,2021-01-04,2026-10-16,False,True
+VLTO,VLTO,Industrials,762,0.5240715268225584,2023-10-04,2026-10-16,False,True
+VMC,VMC,Materials,1454,1.0,2021-01-04,2026-10-16,False,True
+VMI,VMI,Industrials,1454,1.0,2021-01-04,2026-10-16,False,True
+VMRK,VMRK,Real Estate,1454,1.0,2021-01-04,2026-10-16,False,True
+VNO,VNO,Real Estate,1454,1.0,2021-01-04,2026-10-16,False,True
+VNOM,VNOM,Energy,1454,1.0,2021-01-04,2026-10-16,False,True
+VNT,VNT,Information Technology,1454,1.0,2021-01-04,2026-10-16,False,True
+VOYA,VOYA,Financials,1454,1.0,2021-01-04,2026-10-16,False,True
+VRSK,VRSK,Industrials,1454,1.0,2021-01-04,2026-10-16,False,True
+VRSN,VRSN,Information Technology,1454,1.0,2021-01-04,2026-10-16,False,True
+VRT,VRT,Industrials,1454,1.0,2021-01-04,2026-10-16,False,True
+VRTX,VRTX,Health Care,1454,1.0,2021-01-04,2026-10-16,False,True
+VSNT,VSNT,Communication Services,211,0.1451169188445667,2025-12-15,2026-10-16,False,False
+VST,VST,Utilities,1454,1.0,2021-01-04,2026-10-16,False,True
+VTR,VTR,Real Estate,1454,1.0,2021-01-04,2026-10-16,False,True
+VTRS,VTRS,Health Care,1454,1.0,2021-01-04,2026-10-16,False,True
+VVV,VVV,Materials,1454,1.0,2021-01-04,2026-10-16,False,True
+VZ,VZ,Communication Services,1454,1.0,2021-01-04,2026-10-16,False,True
+W,W,Consumer Discretionary,1454,1.0,2021-01-04,2026-10-16,False,True
+WAB,WAB,Industrials,1454,1.0,2021-01-04,2026-10-16,False,True
+WAL,WAL,Financials,1454,1.0,2021-01-04,2026-10-16,False,True
+WAT,WAT,Health Care,1454,1.0,2021-01-04,2026-10-16,False,True
+WBS,WBS,Financials,1,0.000687757909215956,2026-08-19,2026-08-19,False,False
+WCC,WCC,Industrials,1454,1.0,2021-01-04,2026-10-16,False,True
+WDAY,WDAY,Information Technology,1454,1.0,2021-01-04,2026-10-16,False,True
+WDC,WDC,Information Technology,1454,1.0,2021-01-04,2026-10-16,False,True
+WEC,WEC,Utilities,1454,1.0,2021-01-04,2026-10-16,False,True
+WELL,WELL,Real Estate,1454,1.0,2021-01-04,2026-10-16,False,True
+WEX,WEX,Financials,1454,1.0,2021-01-04,2026-10-16,False,True
+WFC,WFC,Financials,1454,1.0,2021-01-04,2026-10-16,False,True
+WFRD,WFRD,Energy,1454,1.0,2021-01-04,2026-10-16,False,True
+WH,WH,Consumer Discretionary,1454,1.0,2021-01-04,2026-10-16,False,True
+WHR,WHR,Consumer Discretionary,1454,1.0,2021-01-04,2026-10-16,False,True
+WING,WING,Consumer Discretionary,1454,1.0,2021-01-04,2026-10-16,False,True
+WLK,WLK,Materials,1454,1.0,2021-01-04,2026-10-16,False,True
+WM,WM,Industrials,1454,1.0,2021-01-04,2026-10-16,False,True
+WMB,WMB,Energy,1454,1.0,2021-01-04,2026-10-16,False,True
+WMS,WMS,Industrials,1454,1.0,2021-01-04,2026-10-16,False,True
+WMT,WMT,Consumer Staples,1454,1.0,2021-01-04,2026-10-16,False,True
+WPC,WPC,Real Estate,1454,1.0,2021-01-04,2026-10-16,False,True
+WRB,WRB,Financials,1454,1.0,2021-01-04,2026-10-16,False,True
+WSC,WSC,Industrials,1454,1.0,2021-01-04,2026-10-16,False,True
+WSM,WSM,Consumer Discretionary,1454,1.0,2021-01-04,2026-10-16,False,True
+WSO,WSO,Industrials,1454,1.0,2021-01-04,2026-10-16,False,True
+WST,WST,Health Care,1454,1.0,2021-01-04,2026-10-16,False,True
+WTFC,WTFC,Financials,1454,1.0,2021-01-04,2026-10-16,False,True
+WTM,WTM,Financials,1454,1.0,2021-01-04,2026-10-16,False,True
+WTRG,WTRG,Utilities,1454,1.0,2021-01-04,2026-10-16,False,True
+WTS,WTS,Industrials,1454,1.0,2021-01-04,2026-10-16,False,True
+WTW,WTW,Financials,1454,1.0,2021-01-04,2026-10-16,False,True
+WU,WU,Information Technology,1454,1.0,2021-01-04,2026-10-16,False,True
+WULF,WULF,Information Technology,1454,1.0,2021-01-04,2026-10-16,False,True
+WWD,WWD,Industrials,1454,1.0,2021-01-04,2026-10-16,False,True
+WY,WY,Real Estate,1454,1.0,2021-01-04,2026-10-16,False,True
+WYNN,WYNN,Consumer Discretionary,1454,1.0,2021-01-04,2026-10-16,False,True
+XE,XE,Industrials,122,0.08390646492434663,2026-04-24,2026-10-16,False,False
+XEL,XEL,Utilities,1454,1.0,2021-01-04,2026-10-16,False,True
+XOM,XOM,Energy,1454,1.0,2021-01-04,2026-10-16,False,True
+XP,XP,Financials,1454,1.0,2021-01-04,2026-10-16,False,True
+XPO,XPO,Industrials,1454,1.0,2021-01-04,2026-10-16,False,True
+XYL,XYL,Industrials,1454,1.0,2021-01-04,2026-10-16,False,True
+XYZ,XYZ,Financials,1454,1.0,2021-01-04,2026-10-16,False,True
+YETI,YETI,Consumer Discretionary,1454,1.0,2021-01-04,2026-10-16,False,True
+YUM,YUM,Consumer Discretionary,1454,1.0,2021-01-04,2026-10-16,False,True
+Z,Z,Real Estate,1454,1.0,2021-01-04,2026-10-16,False,True
+ZBH,ZBH,Health Care,1454,1.0,2021-01-04,2026-10-16,False,True
+ZBRA,ZBRA,Information Technology,1454,1.0,2021-01-04,2026-10-16,False,True
+ZG,ZG,Real Estate,1454,1.0,2021-01-04,2026-10-16,False,True
+ZION,ZION,Financials,1454,1.0,2021-01-04,2026-10-16,False,True
+ZM,ZM,Information Technology,1454,1.0,2021-01-04,2026-10-16,False,True
+ZS,ZS,Information Technology,1454,1.0,2021-01-04,2026-10-16,False,True
+ZTS,ZTS,Health Care,1454,1.0,2021-01-04,2026-10-16,False,True
+,,Unknown,0,0.0,,,False,False
