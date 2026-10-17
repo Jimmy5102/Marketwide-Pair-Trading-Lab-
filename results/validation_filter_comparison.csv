@@ -1,0 +1,4 @@
+model,input_pairs,valid_pairs,stable_pairs
+baseline,20,20,10
+sector,2,2,0
+cluster,0,0,0
